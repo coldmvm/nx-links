@@ -1,11 +1,26 @@
 {
+    "bootloaders": {
+        "hekate_ctcaer_5.7.2_Nyx_1.2.2.zip": "https://github.com/CTCaer/hekate/releases/download/v5.7.2/hekate_ctcaer_5.7.2_Nyx_1.2.2.zip",
+        "argon-nx.zip": "https://github.com/Guillem96/argon-nx/releases/download/1.1-alpha/argon-nx.zip"
+    },
     "cfws": {
         "Atmosphere": {
             "atmosphere-1.3.1-master-62eb4d698+hbl-2.4.1+hbmenu-3.5.0.zip": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.3.1/atmosphere-1.3.1-master-62eb4d698%2Bhbl-2.4.1%2Bhbmenu-3.5.0.zip"
         },
         "GMPack": {
-			"GM_pacote_atmosphere_v14.1.0-1.zip": "https://github.com/coldmvm/gmpack/releases/download/14.1.0-1/GMPACK_14.1.0-1_05_04_2022.zip"
+            "GM_pacote_atmosphere_v14.1.0-1.zip": "https://github.com/coldmvm/gmpack/releases/download/14.1.0-1/GMPACK_14.1.0-1_05_04_2022.zip"
         }
+    },
+    "hekate": {
+        "hekate_ctcaer_5.7.2_Nyx_1.2.2.zip": "https://github.com/CTCaer/hekate/releases/download/v5.7.2/hekate_ctcaer_5.7.2_Nyx_1.2.2.zip"
+    },
+    "payloads": {
+        "fusee.bin": "https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.3.1/fusee.bin",
+        "Lockpick_RCM.bin": "https://github.com/shchmue/Lockpick_RCM/releases/download/v1.9.8/Lockpick_RCM.bin",
+        "TegraExplorer.bin": "https://github.com/suchmememanyskill/TegraExplorer/releases/download/4.0.1-hotfix2/TegraExplorer.bin"
+    },
+    "sigpatches": {
+        "Supports HOS firmware 14.1.0 and AMS 1.3.1": "https://github.com/ITotalJustice/patches/releases/download/14.1.0-1.3.1/SigPatches.zip"
     },
     "firmwares": {
         "Firmware 14.1.0": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2014.1.0.zip",
@@ -67,5 +82,8 @@
         "[China Firmware] Firmware 11.0.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2011.0.0.zip",
         "[China Firmware] Firmware 10.2.0": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2010.2.0.zip",
         "[China Firmware] Firmware 10.1.1": "https://archive.org/download/nintendo-switch-china-firmwares/Firmware%2010.1.1.zip"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://raw.githubusercontent.com/HamletDuFromage/nx-links/master/resources/hekate_ipl.ini"
     }
 }
