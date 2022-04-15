@@ -5,8 +5,7 @@
         }
     },
     "translations": {
-        "Kirby": "https://github.com/AMSNX/NX-Firmwares/releases/download/1.0.0/Firmware.1.0.0.zip",
-        "Yoshi": "https://github.com/AMSNX/NX-Firmwares/releases/download/1.0.0/Firmware.1.0.0.zip"
+        "Kirby and the Forgotten Land": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip"
     },
     "firmwares": {
         "Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0/Firmware.14.1.0.zip",
