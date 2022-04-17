@@ -13,7 +13,7 @@
     "translations": {
         "KIRBY00001": "https://raw.githubusercontent.com/coldmvm/TEST/master/json/01004D300C5AE000.json",
         "Zelda00001": "https://raw.githubusercontent.com/coldmvm/TEST/master/json/01007EF00011F001.json",
-		"STREET0001": "https://raw.githubusercontent.com/coldmvm/TEST/master/json/01007330027EE800.json"
+        "STREET0001": "https://raw.githubusercontent.com/coldmvm/TEST/master/json/01007330027EE800.json"
     },
     "firmwares": {
         "Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
