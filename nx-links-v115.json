@@ -123,7 +123,8 @@
         "0100F110029C8000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/master/json/0100F110029C8000.json",
         "0100f4300bf2c000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/master/json/0100f4300bf2c000.json",
         "0100F4C009322000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/master/json/0100F4C009322000.json",
-        "0100FF500E34A000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/master/json/0100FF500E34A000.json"
+        "0100FF500E34A000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/master/json/0100FF500E34A000.json",
+		"010022F00DA66000.json ": "https://raw.githubusercontent.com/AMSNX/Traducoes-BR-NX/main/json/010022F00DA66000.json"
     },
     "firmwares": {
         "Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
