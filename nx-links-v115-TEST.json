@@ -13,13 +13,30 @@
         }
     },
     "translations": {
-        "Kirby - Star Allies": {
-            "folders": "01007E3006DDA000,01007E3006DDA000",
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kirby_Star_Allies/01007E3006DDA000.zip"
+        "1-2 Switch": {
+            "folders": "01000320000CC000,01000320000CC000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB"
+        },
+        "12 is better than 6": {
+            "folders": "01007F600D1B8000,01007F600D1B8000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
+            "size": "622 KB"
+        },
+        "Isoland": {
+            "folders": "010065200D192000,010065200D192000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+            "size": "289 KB"
         },
         "Kirby - Forgotten Lands": {
             "folders": "01004D300C5AE000,01004D300C5AE000",
-            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip"
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
+            "size": "483 KB"
+        },
+        "Zelda Skyward Sword": {
+            "folders": "01002DA013484000,01002DA013484000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skyward_Sword/01002DA013484000.zip",
+            "size": "24.7 MB"
         }
     },
     "firmwares": {
