@@ -1,0 +1,631 @@
+{
+    "cfws": {
+        "GMPack": {
+            "GMPACK 14.1.0-4 | AMS 1.3.1 (15-04-2022)": "https://github.com/coldmvm/gmpack/releases/download/14.1.0-4/GMPACK_14.1.0-4_15_04_2022.zip"
+        },
+        "CNXPack": {
+            "CNX 1.3.1-1 | AMS 1.3.1 (05/04/2022)": "https://github.com/AMSNX/CNX-Pack-for-Updater/releases/download/1.3.1-1/CNX_1.3.1-2.zip"
+        },
+        "GNX": {
+            "GNX v14.1.0-02": "https://github.com/AMSNX/gnx-for-updater/releases/download/GNX.V14.1.0-2/GNX.v14.1.0-2.2022.04.05.zip"
+        }
+    },
+        "translations": {
+        "1-2 Switch": {
+            "folders": "01000320000CC000,01000320000CC000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB"
+        },
+        "12 is better than 6": {
+            "folders": "01007F600D1B8000,01007F600D1B8000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
+            "size": "622 KB"
+        },
+        "Alwa's Legacy": {
+            "folders": "01001B7012214000,01001B7012214000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
+            "size": "264 KB"
+        },
+        "Another Metroid 2 Remake": {
+            "folders": "0100414d32524e00,0100414d32524e00",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/AM2RNX/0100414d32524e00.zip",
+            "size": "121 KB"
+        },
+        "Archvale": {
+            "folders": "0100A4D0146B2000,0100A4D0146B2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/archvale/0100A4D0146B2000.zip",
+            "size": "248 KB"
+        },
+        "Bayonetta": {
+            "folders": "010076F0049A2000,010076F0049A2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/bayonetta/010076F0049A2000.zip",
+            "size": "464 MB"
+        },
+        "Bioshock": {
+            "folders": "0100AD10102B2000,0100AD10102B2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock/0100AD10102B2000.zip",
+            "size": "299 KB"
+        },
+        "Bioshock 2": {
+            "folders": "01002620102C6000,01002620102C6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock_2/01002620102C6000.zip",
+            "size": "473 KB"
+        },
+        "BioShock Infinite": {
+            "folders": "0100D560102C8000,0100D560102C8000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/BioShock_Infinite/0100D560102C8000.zip",
+            "size": "1.17 MB"
+        },
+        "Black Paradox": {
+            "folders": "010071900D95A000,010071900D95A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Black_Pardox/010071900D95A000.zip",
+            "size": "1.31 MB"
+        },
+        "Borderlands The Pre-Sequel": {
+            "folders": "010007400FF24000,010007400FF24000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Borderlands_TPS/010007400FF24000.zip",
+            "size": "1.09 MB"
+        },
+        "Cadence of Hyrule": {
+            "folders": "01000B900D8B0000,01000B900D8B0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cadende_of_Hyrule/01000B900D8B0000.zip",
+            "size": "5.01 MB"
+        },
+        "Captain Toad Treasure Tracker": {
+            "folders": "01009BF0072D4000,01009BF0072D4000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/captaintoadtt/01009BF0072D4000.zip",
+            "size": "547 KB"
+        },
+        "Cat Quest": {
+            "folders": "0100A2F006FBE000,0100A2F006FBE000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cat_Quest/0100A2F006FBE000.zip",
+            "size": "1.38 MB"
+        },
+        "Cathedral": {
+            "folders": "0100BEB01327A000,0100BEB01327A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cathedral/0100BEB01327A000.zip",
+            "size": "73.3 KB"
+        },
+        "Crysis 2 Remastered": {
+            "folders": "0100582010AE0000,0100582010AE0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
+            "size": "2.13 MB"
+        },
+        "Crysis 3 Remastered": {
+            "folders": "0100CD3010AE2000,0100CD3010AE2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis3/0100CD3010AE2000.zip",
+            "size": "310 MB"
+        },
+        "Crysis Remastered": {
+            "folders": "0100E66010ADE000,0100E66010ADE000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Crysis_Remastered/0100E66010ADE000.zip",
+            "size": "555 KB"
+        },
+        "Dark Devotion": {
+            "folders": "010083A00BF6C000,010083A00BF6C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Dark_Devotion/010083A00BF6C000.zip",
+            "size": "571 KB"
+        },
+        "Deltarune": {
+            "folders": "010023800D64A000,010023800D64A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Deltarune/010023800D64A000.zip",
+            "size": "11 MB"
+        },
+        "Divinity 2 - Original Sin DE": {
+            "folders": "010027400CDC6000,010027400CDC6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Divinity_2_Original_Sin/010027400CDC6000.zip",
+            "size": "6.69 MB"
+        },
+        "Don't Starve": {
+            "folders": "0100751007ADA000,0100751007ADA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Don't_Starve/0100751007ADA000.zip",
+            "size": "1.59 MB"
+        },
+        "Donkey Kong Tropical Freeze": {
+            "folders": "0100C1F0051B6000,0100C1F0051B6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dktf/0100C1F0051B6000.zip",
+            "size": "466 MB"
+        },
+        "Doom 64": {
+            "folders": "01005D700E742000,01005D700E742000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_64/01005D700E742000.zip",
+            "size": "26.7 MB"
+        },
+        "Doom Leg+Dub": {
+            "folders": "0100416004C00000,0100416004C00000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_LEG_AUD/0100416004C00000.zip",
+            "size": "149 MB"
+        },
+        "Doorkickers": {
+            "folders": "0100B0601205E000,0100B0601205E000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doorkickers/0100B0601205E000.zip",
+            "size": "2.68 MB"
+        },
+        "Eagle Island": {
+            "folders": "010037400C7DA000,010037400C7DA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Eagle_Island/010037400C7DA000.zip",
+            "size": "18.1 KB"
+        },
+        "Evoland": {
+            "folders": "0100ED100B160000,0100ED100B160000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Evoland/0100ED100B160000.zip",
+            "size": "507 MB"
+        },
+        "Final Fantasy IX": {
+            "folders": "01007ef00b094000,01007ef00b094000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffix/01007ef00b094000.zip",
+            "size": "53.3 MB"
+        },
+        "Final Fantasy VII": {
+            "folders": "0100A5B00BDC6000,0100A5B00BDC6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffvii/0100A5B00BDC6000.zip",
+            "size": "427 MB"
+        },
+        "Final Fantasy VIII": {
+            "folders": "01008B900DC0A000,01008B900DC0A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffviii/01008B900DC0A000.zip",
+            "size": "459 MB"
+        },
+        "Firewatch": {
+            "folders": "0100AC300919A000,0100AC300919A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
+            "size": "84.4 MB"
+        },
+        "Flynn Son of Crimson": {
+            "folders": "01005F2014B80000,01005F2014B80000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Flynn_Son_of_Crimson/01005F2014B80000.zip",
+            "size": "27.9 KB"
+        },
+        "Forgotton Anne": {
+            "folders": "010059E00B93C000,010059E00B93C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Forgotton_Anne/010059E00B93C000.zip",
+            "size": "24.1 KB"
+        },
+        "Fox N Forests": {
+            "folders": "01008A100A028000,01008A100A028000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Fox_n_Forests/01008A100A028000.zip",
+            "size": "552 KB"
+        },
+        "Good Job": {
+            "folders": "0100B0500FE4E000,0100B0500FE4E000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Good_Job/0100B0500FE4E000.zip",
+            "size": "36.7 KB"
+        },
+        "Huntdown": {
+            "folders": "0100EBA004726000,0100EBA004726000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Huntdown/0100EBA004726000.zip",
+            "size": "2.27 MB"
+        },
+        "Isoland": {
+            "folders": "010065200D192000,010065200D192000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+            "size": "289 KB"
+        },
+        "Kirby - Forgotten Lands": {
+            "folders": "01004D300C5AE000,01004D300C5AE000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
+            "size": "483 KB"
+        },
+        "Kirby - Star Allies": {
+            "folders": "01007E3006DDA000,01007E3006DDA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kirby_Star_Allies/01007E3006DDA000.zip",
+            "size": "483 KB"
+        },
+        "L.A Noire": {
+            "folders": "0100830004FB6000,0100830004FB6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/LA_NOIRE/0100830004FB6000.zip",
+            "size": "115 MB"
+        },
+        "Lifeless Planet Premiere Edition": {
+            "folders": "01005B6008132000,01005B6008132000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Lifeless_Planet_Premiere_Edition/01005B6008132000.zip",
+            "size": "486 KB"
+        },
+        "Mario 3D World + Bowser Fury": {
+            "folders": "010028600EBDA000,010028600EBDA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SM3DW/010028600EBDA000.zip",
+            "size": "86.9 KB"
+        },
+        "Mario Kart 8 Deluxe": {
+            "folders": "0100152000022000,0100152000022000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mk8d/0100152000022000.zip",
+            "size": "54.5 KB"
+        },
+        "Mario Tennis Aces": {
+            "folders": "0100BDE00862A000,0100BDE00862A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MTA/0100BDE00862A000.zip",
+            "size": "138 KB"
+        },
+        "Marsupilami Hoobaventure": {
+            "folders": "010074F014628000,010074F014628000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MARSUPILAMI/010074F014628000.zip",
+            "size": "31 KB"
+        },
+        "Mega Man 11": {
+            "folders": "0100B0C0086B0000,0100B0C0086B0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megaman11/0100B0C0086B0000.zip",
+            "size": "516 MB"
+        },
+        "Mega Man Zero/ZX Legacy Collection": {
+            "folders": "010025C00D410000,010025C00D410000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megamanzero/010025C00D410000.zip",
+            "size": "5.75 MB"
+        },
+        "Metro 2033 Redux": {
+            "folders": "0100D4900E82C000,0100D4900E82C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_2033_Redux/0100D4900E82C000.zip",
+            "size": "3.28 MB"
+        },
+        "Metro Last Light Redux": {
+            "folders": "0100F0400E850000,0100F0400E850000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_Last_Ligth_Redux/0100F0400E850000.zip",
+            "size": "4.47 MB"
+        },
+        "Metroid Dread": {
+            "folders": "010093801237C000,010093801237C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/metroid_dread/010093801237C000.zip",
+            "size": "731 KB"
+        },
+        "Mugster": {
+            "folders": "010073E008E6E000,010073E008E6E000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
+            "size": "8.02 KB"
+        },
+        "New Pokemon Snap": {
+            "folders": "0100f4300bf2c000,0100f4300bf2c000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/NPKMS/0100f4300bf2c000.zip",
+            "size": "205 KB"
+        },
+        "New Super Mario Bros. U Deluxe": {
+            "folders": "0100EA80032EA000,0100EA80032EA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nsmbu/0100EA80032EA000.zip",
+            "size": "53 KB"
+        },
+        "Octopath Traveler": {
+            "folders": "010057D006492000,010057D006492000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Octopath_Traveler/010057D006492000.zip",
+            "size": "9.04 MB"
+        },
+        "OctoDad": {
+            "folders": "0100CAB006F54000,0100CAB006F54000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/OctoDad/0100CAB006F54000.zip",
+            "size": "518 MB"
+        },
+        "Okami HD": {
+            "folders": "0100276009872000,0100276009872000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/okamihd/0100276009872000.zip",
+            "size": "216 MB"
+        },
+        "Onimusha Warlords": {
+            "folders": "0100416008A12000,0100416008A12000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Onimusha_Warlords/0100416008A12000.zip",
+            "size": "72.4 KB"
+        },
+        "Overcooked": {
+            "folders": "01009B900401E000,01009B900401E000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Overcooked/01009B900401E000.zip",
+            "size": "12.3 MB"
+        },
+        "Paper Mario Origami King": {
+            "folders": "0100A3900C3E2000,0100A3900C3E2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PPMOK/0100A3900C3E2000.zip",
+            "size": "2.34 MB"
+        },
+        "Pikmin 3": {
+            "folders": "0100F4C009322000,0100F4C009322000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pikmin_3/0100F4C009322000.zip",
+            "size": "1.86 KB"
+        },
+        "Pillar of Eternity": {
+            "folders": "0100D6200E130000,0100D6200E130000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pillars_of_Eternity/0100D6200E130000.zip",
+            "size": "17 MB"
+        },
+        "Planet Alpha": {
+            "folders": "010003C0099EE000,010003C0099EE000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Planet_Alpha/010003C0099EE000.zip",
+            "size": "1.29 MB"
+        },
+        "Pokemon Legend of Arceus": {
+            "folders": "01001F5010DFA000,01001F5010DFA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLA/01001F5010DFA000.zip",
+            "size": "26.3 MB"
+        },
+        "Pokemon Let's Go Eevee": {
+            "folders": "0100187003A36000,0100187003A36000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLE/0100187003A36000.zip",
+            "size": "10.6 MB"
+        },
+        "Pokemon Let's Go Pikachu": {
+            "folders": "010003F003A34000,010003F003A34000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLP/010003F003A34000.zip",
+            "size": "10.6 MB"
+        },
+        "Pokemon Shield": {
+            "folders": "01008db008c2c000,01008db008c2c000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSHIELD/01008db008c2c000.zip",
+            "size": "24.9 MB"
+        },
+        "Pokemon Sword": {
+            "folders": "0100abf008968000,0100abf008968000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSWORD/0100abf008968000.zip",
+            "size": "24.9 MB"
+        },
+        "Potata": {
+            "folders": "01005FC010EB2000,01005FC010EB2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
+            "size": "82.7 MB"
+        },
+        "Rivals of Aether": {
+            "folders": "0100D2700DE7C000,0100D2700DE7C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Rivals_of_Aether/0100D2700DE7C000.zip",
+            "size": "56.1 KB"
+        },
+        "Scott Pilgrim": {
+            "folders": "0100394011C30000,0100394011C30000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Scott_Pilgrim/0100394011C30000.zip",
+            "size": "47.6 KB"
+        },
+        "Shantae Half Genie": {
+            "folders": "01006A200936C000,01006A200936C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shantae_Half_Genie/01006A200936C000.zip",
+            "size": "4.87 MB"
+        },
+        "Shio": {
+            "folders": "0100C2F00A568000,0100C2F00A568000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shio/0100C2F00A568000.zip",
+            "size": "2.06 MB"
+        },
+        "Skellboy Refractured": {
+            "folders": "0100D7001453A000,0100D7001453A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skellboy_Refractured/0100D7001453A000.zip",
+            "size": "4.56 MB"
+        },
+        "Skyrim": {
+            "folders": "01000A10041EA000,01000A10041EA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/skyrim/01000A10041EA000.zip",
+            "size": "2.94 MB"
+        },
+        "Snipperclips": {
+            "folders": "0100704000B3A000,0100704000B3A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Snipperclips/0100704000B3A000.zip",
+            "size": "47.6 KB"
+        },
+        "Sonic Mania Plus": {
+            "folders": "01009AA000FAA000,01009AA000FAA000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
+            "size": "181 MB"
+        },
+        "South Park The Stick of Truth": {
+            "folders": "010095300b6a4800,010095300b6a4800,010095300b6a4000,010095300b6a4000,010043600B6A6000,010043600B6A6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/southparktst/southpark.zip",
+            "size": "1.55 MB"
+        },
+        "Steamworld Dig": {
+            "folders": "01009320084A4000,01009320084A4000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig/01009320084A4000.zip",
+            "size": "31.4 KB"
+        },
+        "Steamworld Dig 2": {
+            "folders": "0100CA9002322000,0100CA9002322000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig_2/0100CA9002322000.zip",
+            "size": "4.27 MB"
+        },
+        "Steamworld Heist": {
+            "folders": "010016100A186000,010016100A186000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Heist/010016100A186000.zip",
+            "size": "4.02 MB"
+        },
+        "Super Cable Boy": {
+            "folders": "01008260145F2000,01008260145F2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/supercableboy/01008260145F2000.zip",
+            "size": "41.6 KB"
+        },
+        "Super Mario Maker 2": {
+            "folders": "01009B90006DC000,01009B90006DC000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
+            "size": "477 KB"
+        },
+        "Super Mario Party": {
+            "folders": "010036B0034E4000,010036B0034E4000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
+            "size": "2.75 MB"
+        },
+        "Super Mario Sunshine": {
+            "folders": "010049900F546000,010049900F546000,010049900F546002,010049900F546002",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
+            "size": "298 MB"
+        },
+        "Sword of Necromancer": {
+            "folders": "0100E4701355C000,0100E4701355C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sword_of_Necromancer/0100E4701355C000.zip",
+            "size": "56.9 KB"
+        },
+        "Syberia": {
+            "folders": "0100421003FD4000,0100421003FD4000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/syberia/0100421003FD4000.zip",
+            "size": "6.98 MB"
+        },
+        "Syberia 2": {
+            "folders": "010028C003FD6000,010028C003FD6000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Syberia_2/010028C003FD6000.zip",
+            "size": "3.84 MB"
+        },
+        "The Escapists": {
+            "folders": "01001B700BA7C000,01001B700BA7C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/theescapists/01001B700BA7C000.zip",
+            "size": "891 KB"
+        },
+        "The Scretchers": {
+            "folders": "0100AA400A238000,0100AA400A238000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
+            "size": "1.88 MB"
+        },
+        "The Talos Principle": {
+            "folders": "010092A00D43C000,010092A00D43C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Talos_Principle/010092A00D43C000.zip",
+            "size": "88.4 MB"
+        },
+        "Titan Quest": {
+            "folders": "0100605008268000,0100605008268000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Titan_Quest/0100605008268000.zip",
+            "size": "460 KB"
+        },
+        "Torchlight II": {
+            "folders": "010090400D366000,010090400D366000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Torchlight_II/010090400D366000.zip",
+            "size": "512 KB"
+        },
+        "TOUHOU Luna Nights": {
+            "folders": "0100D850131B0000,0100D850131B0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/TOUHOU_Luna_Nights/0100D850131B0000.zip",
+            "size": "33.2 KB"
+        },
+        "Trine": {
+            "folders": "0100d9000a930000,0100d9000a930000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
+            "size": "184 KB"
+        },
+        "Trine 2": {
+            "folders": "010064E00A932000,010064E00A932000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_2/010064E00A932000.zip",
+            "size": "13.3 MB"
+        },
+        "Trine 3": {
+            "folders": "0100DEC00A934000,0100DEC00A934000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_3/0100DEC00A934000.zip",
+            "size": "13 MB"
+        },
+        "Ultra Street Fighter II The Final Challengers": {
+            "folders": "01007330027EE800,01007330027EE800,01007330027EE000,01007330027EE000,0100C86000B58000,0100C86000B58000,0100BBF0027EC000,0100BBF0027EC000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/stftfc/street.zip",
+            "size": "1.62 MB"
+        },
+        "Undertale": {
+            "folders": "010080B00AD66000,010080B00AD66000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Undertale/010080B00AD66000.zip",
+            "size": "43.7 MB"
+        },
+        "Unravel 2": {
+            "folders": "0100E5D00CC0C000,0100E5D00CC0C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Unravel_2/0100E5D00CC0C000.zip",
+            "size": "145 MB"
+        },
+        "Wildfire": {
+            "folders": "0100D9D011E3C000,0100D9D011E3C000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Wildfire/0100D9D011E3C000.zip",
+            "size": "361 KB"
+        },
+        "Worms WMD": {
+            "folders": "01001AE005166000,01001AE005166000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Worms_WMD/01001AE005166000.zip",
+            "size": "191 KB"
+        },
+        "Xenoblade Chronicles 2": {
+            "folders": "0100e95004039002,0100e95004039002",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade2/0100e95004039002.zip",
+            "size": "2.47 MB"
+        },
+        "Xenoblade Chronicles Definitive Edition": {
+            "folders": "0100FF500E34A000,0100FF500E34A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenobladeDE/0100FF500E34A000.zip",
+            "size": "8.53 MB"
+        },
+        "Yester Morrow": {
+            "folders": "010076B0101A0000,010076B0101A0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/YesterMorrow/010076B0101A0000.zip",
+            "size": "28.1 MB"
+        },
+        "Yooka Laylee": {
+            "folders": "0100F110029C8000,0100F110029C8000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_laylee/0100F110029C8000.zip",
+            "size": "72.4 KB"
+        },
+        "Yooka Laylee and The Impossible Lair": {
+            "folders": "010022F00DA66000,010022F00DA66000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_layleeIP/010022F00DA66000.zip",
+            "size": "929 KB"
+        },
+        "Yoshi's Crafted World": {
+            "folders": "01006000040C2000,01006000040C2000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yoshi/01006000040C2000.zip",
+            "size": "348 KB"
+        },
+        "Yu-gi-Oh Link Evolution": {
+            "folders": "010022400BE5A000,010022400BE5A000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yugiohle/010022400BE5A000.zip",
+            "size": "1.51 GB"
+        },
+        "Zelda Breath of The Wild": {
+            "folders": "01007EF00011E000,01007EF00011E000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
+            "size": "6.39 MB"
+        },
+        "Zelda Breath of The Wild - Leg+Dub": {
+            "folders": "01007EF00011E000,01007EF00011E000,01007EF00011F001,01007EF00011F001",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
+            "size": "107 MB"
+        },
+        "Zelda Link's Awakening": {
+            "folders": "01006BB00C6F0000,01006BB00C6F0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
+            "size": "487 KB"
+        },
+        "Zelda Skyward Sword": {
+            "folders": "01002DA013484000,01002DA013484000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skyward_Sword/01002DA013484000.zip",
+            "size": "24.7 MB"
+        }
+    },
+    "firmwares": {
+        "Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
+        "Firmware 14.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.0.0/Firmware.14.0.0.zip",
+        "Firmware 13.2.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.2.1/Firmware.13.2.1.zip",
+        "Firmware 13.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.2.0/Firmware.13.2.0.zip",
+        "Firmware 13.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.1.0/Firmware.13.1.0.zip",
+        "Firmware 13.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.0.0/Firmware.13.0.0.zip",
+        "Firmware 12.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/12.1.0/Firmware.12.1.0.zip",
+        "Firmware 12.0.3": "https://github.com/AMSNX/NX-Firmwares/releases/download/12.0.3/Firmware.12.0.3.zip",
+        "Firmware 12.0.2": "https://github.com/AMSNX/NX-Firmwares/releases/download/12.0.2/Firmware.12.0.2.zip",
+        "Firmware 12.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/12.0.1/Firmware.12.0.1.zip",
+        "Firmware 12.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/12.0.0/Firmware.12.0.0.zip",
+        "Firmware 11.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/11.0.1/Firmware.11.0.1.zip",
+        "Firmware 11.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/11.0.0/Firmware.11.0.0.zip",
+        "Firmware 10.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.2.0/Firmware.10.2.0.zip",
+        "Firmware 10.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.1.0/Firmware.10.1.0.zip",
+        "Firmware 10.0.4": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.0.4/Firmware.10.0.4.zip",
+        "Firmware 10.0.3": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.0.3/Firmware.10.0.3.zip",
+        "Firmware 10.0.2": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.0.2/Firmware.10.0.2.zip",
+        "Firmware 10.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.0.1/Firmware.10.0.1.zip",
+        "Firmware 10.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/10.0.0/Firmware.10.0.0.zip",
+        "Firmware 9.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/9.2.0/Firmware.9.2.0.zip",
+        "Firmware 9.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/9.1.0/Firmware.9.1.0.zip",
+        "Firmware 9.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/9.0.1/Firmware.9.0.1.zip",
+        "Firmware 9.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/9.0.0/Firmware.9.0.0.zip",
+        "Firmware 8.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/8.1.1/Firmware.8.1.1.zip",
+        "Firmware 8.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/8.1.0/Firmware.8.1.0.zip",
+        "Firmware 8.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/8.0.1/Firmware.8.0.1.zip",
+        "Firmware 8.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/8.0.0/Firmware.8.0.0.zip",
+        "Firmware 7.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/7.0.1/Firmware.7.0.1.zip",
+        "Firmware 7.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/7.0.0/Firmware.7.0.0.zip",
+        "Firmware 6.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/6.2.0/Firmware.6.2.0.zip",
+        "Firmware 6.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/6.1.0/Firmware.6.1.0.zip",
+        "Firmware 6.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/6.0.1/Firmware.6.0.1.zip",
+        "Firmware 6.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/6.0.0/Firmware.6.0.0.zip",
+        "Firmware 5.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/5.1.0/Firmware.5.1.0.zip",
+        "Firmware 5.0.2": "https://github.com/AMSNX/NX-Firmwares/releases/download/5.0.2/Firmware.5.0.2.zip",
+        "Firmware 5.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/5.0.1/Firmware.5.0.1.zip",
+        "Firmware 5.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/5.0.0/Firmware.5.0.0.zip",
+        "Firmware 4.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/4.1.0/Firmware.4.1.0.zip",
+        "Firmware 4.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/4.0.1/Firmware.4.0.1.zip",
+        "Firmware 4.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/4.0.0/Firmware.4.0.0.zip",
+        "Firmware 3.0.2": "https://github.com/AMSNX/NX-Firmwares/releases/download/3.0.2/Firmware.3.0.2.zip",
+        "Firmware 3.0.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/3.0.1/Firmware.3.0.1.zip",
+        "Firmware 3.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/3.0.0/Firmware.3.0.0.zip",
+        "Firmware 2.3.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.3.0/Firmware.2.3.0.zip",
+        "Firmware 2.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.2.0/Firmware.2.2.0.zip",
+        "Firmware 2.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.1.0/Firmware.2.1.0.zip",
+        "Firmware 2.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.0.0/Firmware.2.0.0.zip",
+        "Firmware 1.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/1.0.0/Firmware.1.0.0.zip"
+    }
+}
