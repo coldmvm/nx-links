@@ -691,16 +691,13 @@
     },
     "cfws": {
         "GMPACK": {
-            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases/latest",
-            "active": true
+            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases/latest"
         },
         "CNXPACK": {
-            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest",
-            "active": true
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
         "GNX": {
-            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest",
-            "active": true
+            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest"
         }
     },
     "firmwares": {
