@@ -1,15 +1,6 @@
 {
-    "cfws": {
-        "GMPACK": {
-            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases"
-        },
-        "CNXPACK": {
-            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases"
-        },
-        "GNX": {
-            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases"
-        }
-    },
+    "GMPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote GMPACK 14.1.0-3 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!",
+    "CNXPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.1-2 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!",
     "translations": {
         "1-2 Switch": {
             "folders": "01000320000CC000",
@@ -698,6 +689,20 @@
             "enabled": true
         }
     },
+    "cfws": {
+        "GMPACK": {
+            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases/latest",
+            "active": true
+        },
+        "CNXPACK": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest",
+            "active": true
+        },
+        "GNX": {
+            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest",
+            "active": true
+        }
+    },
     "firmwares": {
         "Firmware 14.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.1/Firmware.14.1.1.zip",
 		"Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
@@ -749,7 +754,5 @@
         "Firmware 2.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.1.0/Firmware.2.1.0.zip",
         "Firmware 2.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/2.0.0/Firmware.2.0.0.zip",
         "Firmware 1.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/1.0.0/Firmware.1.0.0.zip"
-    },
-    "GMPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote GMPACK 14.1.0-3 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!",
-    "CNXPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.1-2 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!"
+    }
 }
