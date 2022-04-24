@@ -326,6 +326,12 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
             "size": "8.02 KB"
         },
+		"My Time at Portia": {
+            "enabled": true,
+            "folders": "0100E25008E68000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
+            "size": "29 MB"
+        },
         "New Pokemon Snap": {
             "enabled": true,
             "folders": "0100f4300bf2c000",
