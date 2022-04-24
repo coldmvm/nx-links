@@ -11,7 +11,13 @@
         }
     },
     "translations": {
-        "1-2 Switch": {
+        "teste": {
+            "enabled": true,
+            "folders": "0100EAE00D9EC000",
+            "link": "https://drive.google.com/uc?id=1NklDV8hPWPJDyQ9BJdr8R3tDtnct675F&export=download",
+            "size": "53.7 MB"
+        },
+	    "1-2 Switch": {
             "enabled": true,
             "folders": "01000320000CC000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
