@@ -718,10 +718,16 @@
         }
     },
     "modifications": {
-        "Diablo II Offline Patch": {
+        "Diablo II Resurrected - Offline Patch (antigo)": {
             "folders": "0100726014352000",
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii/0100726014352000.zip",
             "size": "11.6 MB",
+            "enabled": true
+        },
+        "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
+            "folders": "0100726014352000",
+            "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
+            "size": "11.7 MB",
             "enabled": true
         }
     },
