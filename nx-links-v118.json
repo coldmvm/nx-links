@@ -702,7 +702,11 @@
             "enabled": true,
             "folders": "01007EF00011E000,01007EF00011F001",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
-            "size": "107 MB"
+            "size": "107 MB",
+			"hash": {
+				"hash_file":"/romfs/Voice/EUru/Npc_Kakariko001.bars",
+				"hash_size":"600"
+			}
         },
         "Zelda Link's Awakening": {
             "enabled": true,
