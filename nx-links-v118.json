@@ -326,7 +326,7 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
             "size": "8.02 KB"
         },
-		"My Time at Portia": {
+        "My Time at Portia": {
             "enabled": true,
             "folders": "0100E25008E68000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
@@ -722,15 +722,21 @@
             "folders": "0100726014352000",
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii/0100726014352000.zip",
             "size": "11.6 MB",
-            "hash": "123456",
-            "enabled": true
+            "enabled": true,
+			"hash": {
+				"hash_file":"/exefs/main",
+				"hash_size":"16305356"
+			}
         },
         "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
             "folders": "0100726014352000",
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "11.7 MB",
-            "hash": "654321",
-            "enabled": true
+            "enabled": true,
+			"hash": {
+				"hash_file":"/exefs/main",
+                "hash_size":"16417444"
+            }
         }
     },
     "cfws": {
