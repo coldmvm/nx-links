@@ -696,7 +696,11 @@
             "enabled": true,
             "folders": "01007EF00011E000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
-            "size": "6.39 MB"
+            "size": "6.39 MB",
+			"hash": {
+				"hash_file": "/romfs/System/Resource/ResourceSizeTable.product.srsizetable",
+				"hash_size": "467026"
+			}
         },
         "Zelda Breath of The Wild - Leg+Dub": {
             "enabled": true,
@@ -704,8 +708,8 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
             "size": "107 MB",
 			"hash": {
-				"hash_file":"/romfs/Voice/EUru/Npc_Kakariko001.bars",
-				"hash_size":"600"
+				"hash_file": "/romfs/Voice/EUru/Npc_Kakariko001.bars",
+				"hash_size": "600"
 			}
         },
         "Zelda Link's Awakening": {
@@ -728,8 +732,8 @@
             "size": "11.6 MB",
             "enabled": true,
 			"hash": {
-				"hash_file":"/exefs/main",
-				"hash_size":"16305356"
+				"hash_file": "/exefs/main",
+				"hash_size": "16305356"
 			}
         },
         "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
@@ -738,8 +742,8 @@
             "size": "11.7 MB",
             "enabled": true,
 			"hash": {
-				"hash_file":"/exefs/main",
-                "hash_size":"16417444"
+				"hash_file": "/exefs/main",
+                "hash_size": "16417444"
             }
         }
     },
