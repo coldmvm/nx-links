@@ -335,7 +335,7 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
             "size": "8.02 KB"
         },
-		"My Time at Portia": {
+        "My Time at Portia": {
             "enabled": true,
             "folders": "0100E25008E68000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
@@ -544,6 +544,12 @@
             "folders": "01009B90006DC000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
             "size": "477 KB"
+        },
+        "Super Mario Odyssey": {
+            "enabled": true,
+            "folders": "0100000000010000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MarioOdysseyJMC/0100000000010000.zip",
+            "size": "759 KB"
         },
         "Super Mario Party": {
             "enabled": true,
