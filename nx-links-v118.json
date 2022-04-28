@@ -536,6 +536,12 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
             "size": "477 KB"
         },
+        "Super Mario Odyssey": {
+            "enabled": true,
+            "folders": "0100000000010000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MarioOdysseyJMC/0100000000010000.zip",
+            "size": "759 KB"
+        },
         "Super Mario Party": {
             "enabled": true,
             "folders": "010036B0034E4000",
@@ -695,22 +701,22 @@
         "Zelda Breath of The Wild": {
             "enabled": true,
             "folders": "01007EF00011E000",
+            "hash": {
+                "hash_file": "/romfs/System/Resource/ResourceSizeTable.product.srsizetable",
+                "hash_size": "467026"
+            },
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
-            "size": "6.39 MB",
-			"hash": {
-				"hash_file": "/romfs/System/Resource/ResourceSizeTable.product.srsizetable",
-				"hash_size": "467026"
-			}
+            "size": "6.39 MB"
         },
         "Zelda Breath of The Wild - Leg+Dub": {
             "enabled": true,
             "folders": "01007EF00011E000,01007EF00011F001",
+            "hash": {
+                "hash_file": "/romfs/Voice/EUru/Npc_Kakariko001.bars",
+                "hash_size": "600"
+            },
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
-            "size": "107 MB",
-			"hash": {
-				"hash_file": "/romfs/Voice/EUru/Npc_Kakariko001.bars",
-				"hash_size": "600"
-			}
+            "size": "107 MB"
         },
         "Zelda Link's Awakening": {
             "enabled": true,
