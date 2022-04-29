@@ -763,7 +763,10 @@
             "enabled": true,
             "hash": {
                 "hash_file": "/romfs/region_common/shader/postprocess.bfsha",
-                "hash_size": "2966464"
+                "hash_size": "2966464",
+                "base_path": {
+                    "path01": "/romfs/region_common"
+                }
             }
         }
     },
