@@ -722,7 +722,11 @@
             "enabled": true,
             "folders": "01006BB00C6F0000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
-            "size": "487 KB"
+            "size": "487 KB",
+            "hash": {
+                "hash_file": "/romfs/region_common/ui/StartUp.arc",
+                "hash_size": "3541304"
+            }
         },
         "Zelda Skyward Sword": {
             "enabled": true,
