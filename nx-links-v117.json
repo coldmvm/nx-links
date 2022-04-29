@@ -754,7 +754,7 @@
     },
     "firmwares": {
         "Firmware 14.1.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.1/Firmware.14.1.1.zip",
-	"Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
+    "Firmware 14.1.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.1.0_/Firmware.14.1.0.zip",
         "Firmware 14.0.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/14.0.0/Firmware.14.0.0.zip",
         "Firmware 13.2.1": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.2.1/Firmware.13.2.1.zip",
         "Firmware 13.2.0": "https://github.com/AMSNX/NX-Firmwares/releases/download/13.2.0/Firmware.13.2.0.zip",
