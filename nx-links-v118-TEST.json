@@ -1,0 +1,45 @@
+{
+    "GMPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote GMPACK 14.1.0-3 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!",
+    "CNXPACK-MOTD": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.1-2 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!",
+    "translations": {
+        "Zelda Link's Awakening": {
+            "enabled": true,
+            "folders": "01006BB00C6F0000",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
+            "size": "487 KB",
+            "hash": {
+                "hash_file": "/romfs/region_common/ui/StartUp.arc",
+                "hash_size": "3541304"
+            }
+        }
+    },
+    "modifications": {
+        "The Legend of Zelda™: Link's Awakening - No Blur": {
+            "enabled": true,
+            "folders": "01006BB00C6F0000",
+            "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
+            "size": "280 KB",
+            "hash": {
+                "hash_file": "/romfs/region_common/shader/postprocess.bfsha",
+                "hash_size": "2966464",
+                "base_path": {
+                    "path01": "/romfs/region_common"
+                }
+            }
+        }
+    },
+    "cfws": {
+        "GMPACK": {
+            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases/latest"
+        },
+        "CNXPACK": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
+        },
+        "GNX": {
+            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest"
+        }
+    },
+    "firmwares": {
+        "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
+    }
+}
