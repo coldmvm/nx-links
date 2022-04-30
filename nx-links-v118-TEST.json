@@ -4,26 +4,29 @@
     "translations": {
         "Zelda Link's Awakening": {
             "enabled": true,
-            "folders": "01006BB00C6F0000",
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
             "size": "487 KB",
-            "hash": {
-                "hash_file": "/romfs/region_common/ui/StartUp.arc",
-                "hash_size": "3541304"
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/ui/StartUp.arc",
+                "hash_size": "3541304",
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/ui",
+                    "path02": "01006BB00C6F0000/romfs/region_common/regionEU",
+                    "path03": "01006BB00C6F0000/romfs/region_common/regionUS"
+                }
             }
         }
     },
     "modifications": {
         "The Legend of Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
-            "folders": "01006BB00C6F0000",
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
             "size": "280 KB",
-            "hash": {
-                "hash_file": "/romfs/region_common/shader/postprocess.bfsha",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/shader/postprocess.bfsha",
                 "hash_size": "2966464",
-                "base_path": {
-                    "path01": "/romfs/region_common"
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/shader"
                 }
             }
         }
