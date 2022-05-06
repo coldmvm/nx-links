@@ -1,2 +1,2 @@
 # nx-links
- Links usados no Atualizador Pacote GameMod
+ Links usados no Atualizador Pacote GameMod e CNX Pack Updater
