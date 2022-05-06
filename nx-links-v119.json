@@ -1259,6 +1259,9 @@
         "CNXPACK": {
             "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
         },
+        "SGMPACK": {
+            "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
+        },
         "GNX": {
             "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest"
         }
