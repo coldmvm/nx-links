@@ -322,6 +322,16 @@
                 }
             }
         },
+		"Final Fantasy X-HD": {
+            "enabled": true,
+            "link": "https://mega.nz/file/thgkULTQ#w_8GxEotsyjIopBq0PzpFGRrxsfZxGF8HjcG22gHpSM",
+            "size": "6.68 GB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100bc300cb48000"
+                }
+            }
+        },
 		"Firewatch": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
