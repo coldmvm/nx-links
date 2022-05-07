@@ -322,7 +322,7 @@
                 }
             }
         },
-        "Firewatch": {
+		"Firewatch": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
             "size": "84.4 MB",
@@ -362,7 +362,17 @@
                 }
             }
         },
-        "Ghostbusters The Video Game Remastered": {
+        "Ghosts'n Goblins Resurrection": {
+            "enabled": true,
+            "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
+            "size": "2.86GB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D6200F2BA000"
+                }
+            }
+        },
+		"Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
             "size": "164 MB",
@@ -924,7 +934,18 @@
                 }
             }
         },
-        "Super Mario Sunshine": {
+        "Super Mario Galaxy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mariogalaxy/Super.Mario.Galaxy.NX.zip",
+            "size": "579 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010049900F546000",
+                    "path02": "010049900F546003"
+                }
+            }
+        },
+		"Super Mario Sunshine": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
             "size": "298 MB",
@@ -1225,18 +1246,6 @@
         }
     },
     "modifications": {
-        "Diablo II Resurrected - Offline Patch (antigo)": {
-            "enabled": true,
-            "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii/0100726014352000.zip",
-            "size": "11.6 MB",
-            "installed": {
-                "hash_file": "0100726014352000/exefs/main",
-                "hash_size": 16305356,
-                "uninstall": {
-                    "path01": "0100726014352000/exefs/"
-                }
-            }
-        },
         "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
@@ -1249,7 +1258,19 @@
                 }
             }
         },
-        "Zelda™: Link's Awakening - No Blur": {
+        "Metroid Dread Easy Mode": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010093801237C000/romfs/config.ini",
+                "hash_size": 87238,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs"
+                }
+            }
+        },
+		"Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
             "size": "280 KB",
