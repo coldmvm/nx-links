@@ -1280,7 +1280,7 @@
                 }
             }
         },
-		"SNES - Nintendo Switch Online": {
+		"SNES 300 ROMS - Nintendo Switch Online": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
             "size": "431 MB",
