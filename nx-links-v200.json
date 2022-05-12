@@ -1256,6 +1256,16 @@
         }
     },
     "modifications": {
+		"Chrono Cross The Radical Dreamers Editon": {
+            "enabled": true,
+            "link": "https://mega.nz/file/w0ZXEJ6b#k2nYFEbym5MQGFSWWwv5iebBk4aUbAkHIsDi60jfR3g",
+            "size": "5.74 GB",
+            "installed": {
+                    "uninstall": {
+                    "path01": "0100AC20128AC001"
+					}
+            }
+        },
         "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
