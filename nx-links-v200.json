@@ -162,6 +162,16 @@
                 }
             }
         },
+		"Cathedral": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
+            "size": "93.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005790110F0000"
+                }
+            }
+        },
         "Crysis 2 Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
@@ -322,13 +332,13 @@
                 }
             }
         },
-		"Final Fantasy X-HD": {
+		"Final Fantasy XII Zodiac Age": {
             "enabled": true,
-            "link": "https://mega.nz/file/thgkULTQ#w_8GxEotsyjIopBq0PzpFGRrxsfZxGF8HjcG22gHpSM",
-            "size": "6.68 GB",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
+            "size": "41.6 MB",
             "installed": {
                 "uninstall": {
-                    "path01": "0100bc300cb48000"
+                    "path01": "0100EB100AB42000"
                 }
             }
         },
@@ -372,17 +382,7 @@
                 }
             }
         },
-        "Ghosts'n Goblins Resurrection": {
-            "enabled": true,
-            "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
-            "size": "2.86GB",
-            "installed": {
-                "uninstall": {
-                    "path01": "0100D6200F2BA000"
-                }
-            }
-        },
-		"Ghostbusters The Video Game Remastered": {
+        "Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
             "size": "164 MB",
@@ -459,6 +459,16 @@
             "installed": {
                 "uninstall": {
                     "path01": "01005B6008132000"
+                }
+            }
+        },
+		  "Legend of Mana Remastered (Requer Update 1.1.0": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
+            "size": "718 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01003570130E2000"
                 }
             }
         },
@@ -1006,6 +1016,16 @@
                 }
             }
         },
+		"The House of The Dead": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010088401495E000"
+                }
+            }
+        },
         "The Scretchers": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
@@ -1256,17 +1276,7 @@
         }
     },
     "modifications": {
-		"Chrono Cross The Radical Dreamers Editon": {
-            "enabled": true,
-            "link": "https://mega.nz/file/w0ZXEJ6b#k2nYFEbym5MQGFSWWwv5iebBk4aUbAkHIsDi60jfR3g",
-            "size": "5.74 GB",
-            "installed": {
-                    "uninstall": {
-                    "path01": "0100AC20128AC001"
-					}
-            }
-        },
-        "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
+		"Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "11.7 MB",
