@@ -1288,6 +1288,16 @@
                 }
             }
         },
+		"Chrono Cross Radical Dreamers HD Pack ": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/chronocross/0100AC20128AC001.zip",
+            "size": "143 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100AC20128AC001"
+                }
+            }
+        },
         "Metroid Dread Easy Mode": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
