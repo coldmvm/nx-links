@@ -1,16 +1,3 @@
-{
-    "GMPACK-MOTD": {
-        "enabled": true,
-        "message": "21/04/2022 6:30PM\nAVISO!\n\nDe accordo com o desenvolvedor e mantenedor do custom firmware Atmosphère (AMS) a versão 1.3.1 funciona normalmente com o novo firmware do Switch versão 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.1, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote GMPACK 14.1.0-3 inclui o AMS 1.3.1 e é compatível com o firmware 14.1.1 do Switch!"
-    },
-    "CNXPACK-MOTD": {
-        "enabled": true,
-        "message": "29/04/2022 21:36\nAVISO!\n\nPacote CNX Atualizado para versão do Atmosphère (AMS) 1.3.2 totalmente compatível com a firmware 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.2, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.2 inclui o AMS 1.3.3 e é compatível com o firmware 14.1.1 do Switch!"
-    },
-    "SGM-MOTD": {
-        "enabled": true,
-        "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
-    },
     "translations": {
         "1-2 Switch": {
             "enabled": true,
@@ -159,6 +146,16 @@
             "installed": {
                 "uninstall": {
                     "path01": "0100BEB01327A000"
+                }
+            }
+        },
+		"Cobra Kai": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
+            "size": "93.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005790110F0000"
                 }
             }
         },
@@ -322,13 +319,13 @@
                 }
             }
         },
-		"Final Fantasy X-HD": {
+		"Final Fantasy XII Zodiac Age": {
             "enabled": true,
-            "link": "https://mega.nz/file/thgkULTQ#w_8GxEotsyjIopBq0PzpFGRrxsfZxGF8HjcG22gHpSM",
-            "size": "6.68 GB",
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
+            "size": "41.6 MB",
             "installed": {
                 "uninstall": {
-                    "path01": "0100bc300cb48000"
+                    "path01": "0100EB100AB42000"
                 }
             }
         },
@@ -372,17 +369,7 @@
                 }
             }
         },
-        "Ghosts'n Goblins Resurrection": {
-            "enabled": true,
-            "link": "https://mega.nz/file/YgJRDDRT#i0X1vHhQsCPyS3QDc2j1OxPg8-yBgNSYA1puvw4anSU",
-            "size": "2.86GB",
-            "installed": {
-                "uninstall": {
-                    "path01": "0100D6200F2BA000"
-                }
-            }
-        },
-		"Ghostbusters The Video Game Remastered": {
+        "Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
             "size": "164 MB",
@@ -459,6 +446,16 @@
             "installed": {
                 "uninstall": {
                     "path01": "01005B6008132000"
+                }
+            }
+        },
+		  "Legend of Mana Remastered (Requer Update 1.1.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
+            "size": "718 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01003570130E2000"
                 }
             }
         },
@@ -1006,6 +1003,16 @@
                 }
             }
         },
+		"The House of The Dead": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010088401495E000"
+                }
+            }
+        },
         "The Scretchers": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
@@ -1256,7 +1263,7 @@
         }
     },
     "modifications": {
-        "Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
+		"Diablo II Resurrected - Offline Patch (1.0.0.10/12)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "11.7 MB",
@@ -1265,6 +1272,16 @@
                 "hash_size": 16417444,
                 "uninstall": {
                     "path01": "0100726014352000/exefs/"
+                }
+            }
+        },
+		"Chrono Cross Radical Dreamers HD Pack ": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/chronocross/0100AC20128AC001.zip",
+            "size": "143 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100AC20128AC001"
                 }
             }
         },
@@ -1280,6 +1297,18 @@
                 }
             }
         },
+		"SNES 300 ROMS - Nintendo Switch Online": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
+            "size": "431 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01006BB00C6F0000",
+					"path02": "01007EF00011E000",
+					"path03": "01008D300C50C000"
+                }
+            }
+        },
 		"Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
@@ -1292,6 +1321,18 @@
                 }
             }
         }
+    },
+    "GMPACK-MOTD": {
+        "enabled": true,
+        "message": "21/04/2022 6:30PM\nAVISO!\n\nBem-vindo ao pacote GMPACK!"
+    },
+    "CNXPACK-MOTD": {
+        "enabled": true,
+        "message": "29/04/2022 21:36\nAVISO!\n\nPacote CNX Atualizado para versão do Atmosphère (AMS) 1.3.2 totalmente compatível com a firmware 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.2, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.2 inclui o AMS 1.3.3 e é compatível com o firmware 14.1.1 do Switch!"
+    },
+    "SGM-MOTD": {
+        "enabled": true,
+        "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
     },
     "cfws": {
         "GMPACK": {
