@@ -1064,6 +1064,16 @@
                 }
             }
         },
+	"Triangle Strategy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
+            "size": "58.8 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CC80140F8000"
+                }
+            }
+        },    
         "Trine": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
@@ -1264,13 +1274,13 @@
         }
     },
     "modifications": {
-		"Diablo II Resurrected - Offline Patch (1.0.0.14)": {
+		"Diablo II Resurrected - Offline Patch (1.0.0.13/1)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
-            "size": "11.9 MB",
+            "size": "11.7 MB",
             "installed": {
                 "hash_file": "0100726014352000/exefs/main",
-                "hash_size": 16801301,
+                "hash_size": 16417444,
                 "uninstall": {
                     "path01": "0100726014352000/exefs/"
                 }
@@ -1312,13 +1322,14 @@
                 }
             }
         }
-    },    "GMPACK-MOTD": {
+    },
+    "GMPACK-MOTD": {
         "enabled": true,
         "message": "21/04/2022 6:30PM\nAVISO!\n\nBem-vindo ao pacote GMPACK!"
     },
     "CNXPACK-MOTD": {
         "enabled": true,
-        "message":  "26/05/2022 23:40\nAVISO!\n\nBem-vindo ao pacote CNX!"
+        "message": "29/04/2022 21:36\nAVISO!\n\nPacote CNX Atualizado para versão do Atmosphère (AMS) 1.3.2 totalmente compatível com a firmware 14.1.1.\nPortanto, caso você já esteja usando o AMS 1.3.2, é seguro fazer a atualização para o firmware 14.1.1.\n\nO pacote CNX Pack 1.3.2 inclui o AMS 1.3.3 e é compatível com o firmware 14.1.1 do Switch!"
     },
     "SGM-MOTD": {
         "enabled": true,
