@@ -1064,6 +1064,16 @@
                 }
             }
         },
+	"Triangle Strategy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
+            "size": "58.8 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CC80140F8000"
+                }
+            }
+        },    
         "Trine": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
