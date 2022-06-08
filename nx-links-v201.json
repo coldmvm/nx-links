@@ -1286,6 +1286,18 @@
                 }
             }
         },
+	"Mario Strikers Battle League FIX EMUMMC SD Files": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010019401051C000/romfs/Movies/IntroMovie.webm",
+                "hash_size": 6639,
+                "uninstall": {
+                    "path01": "010019401051C000/romfs/Movies/"
+                }
+            }
+        },
 	"Metroid Dread Easy Mode": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
