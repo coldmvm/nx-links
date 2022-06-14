@@ -1341,7 +1341,7 @@
    },
     "CNXPACK-MOTD": {
         "enabled": true,
-        "message":  "26/05/2022 23:40\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX!"
+        "message":  "13/06/2022 21:44\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX!\n\Pacote CNX 1.3.2-2 com suporte ao firmware 14.1.2"
     },
     "SGM-MOTD": {
         "enabled": true,
