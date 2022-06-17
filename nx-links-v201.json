@@ -150,7 +150,7 @@
                 }
             }
         },
-		"Cobra Kai": {
+        "Cobra Kai": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
             "size": "93.3 MB",
@@ -320,7 +320,7 @@
                 }
             }
         },
-		"Final Fantasy XII Zodiac Age": {
+        "Final Fantasy XII Zodiac Age": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
             "size": "41.6 MB",
@@ -330,7 +330,7 @@
                 }
             }
         },
-		"Firewatch": {
+        "Firewatch": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
             "size": "84.4 MB",
@@ -369,7 +369,7 @@
                     "path01": "01008A100A028000"
                 }
             }
-        },	
+        },    
         "Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
@@ -450,7 +450,7 @@
                 }
             }
         },
-		  "Legend of Mana Remastered (Requer Update 1.1.0)": {
+          "Legend of Mana Remastered (Requer Update 1.1.0)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
             "size": "718 MB",
@@ -953,7 +953,7 @@
                 }
             }
         },
-		"Super Mario Sunshine": {
+        "Super Mario Sunshine": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
             "size": "298 MB",
@@ -1004,7 +1004,7 @@
                 }
             }
         },
-		"The House of The Dead": {
+        "The House of The Dead": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
             "size": "1.09 MB",
@@ -1064,7 +1064,7 @@
                 }
             }
         },
-	"Triangle Strategy": {
+    "Triangle Strategy": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
             "size": "58.8 MB",
@@ -1274,7 +1274,7 @@
         }
     },
     "modifications": {
-		"Diablo II Resurrected - Offline Patch (1.0.0.14)": {
+        "Diablo II Resurrected - Offline Patch (1.0.0.14)": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
             "size": "11.7 MB",
@@ -1286,7 +1286,7 @@
                 }
             }
         },
-	"Mario Strikers Battle League FIX EMUMMC SD Files": {
+    "Mario Strikers Battle League FIX EMUMMC SD Files": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
             "size": "86 KB",
@@ -1298,7 +1298,7 @@
                 }
             }
         },
-	"Metroid Dread Easy Mode": {
+    "Metroid Dread Easy Mode": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
             "size": "86 KB",
@@ -1310,19 +1310,19 @@
                 }
             }
         },
-		"SNES 300 ROMS - Nintendo Switch Online": {
+        "SNES 300 ROMS - Nintendo Switch Online": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
             "size": "431 MB",
             "installed": {
                 "uninstall": {
                     "path01": "01006BB00C6F0000",
-					"path02": "01007EF00011E000",
-					"path03": "01008D300C50C000"
+                    "path02": "01007EF00011E000",
+                    "path03": "01008D300C50C000"
                 }
             }
         },
-		"Zelda™: Link's Awakening - No Blur": {
+        "Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
             "size": "280 KB",
