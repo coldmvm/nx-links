@@ -1,0 +1,1370 @@
+{
+    "translations": {
+        "1-2 Switch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
+            "size": "53.7 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01000320000CC000"
+                }
+            }
+        },
+        "12 is better than 6": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
+            "size": "622 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007F600D1B8000"
+                }
+            }
+        },
+        "Alwa's Legacy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
+            "size": "264 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01001B7012214000"
+                }
+            }
+        },
+        "Another Metroid 2 Remake": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/AM2RNX/0100414d32524e00.zip",
+            "size": "121 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100414d32524e00"
+                }
+            }
+        },
+        "Archvale": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/archvale/0100A4D0146B2000.zip",
+            "size": "248 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100A4D0146B2000"
+                }
+            }
+        },
+        "Bayonetta": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/bayonetta/010076F0049A2000.zip",
+            "size": "464 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010076F0049A2000"
+                }
+            }
+        },
+        "Bioshock": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock/0100AD10102B2000.zip",
+            "size": "299 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100AD10102B2000"
+                }
+            }
+        },
+        "Bioshock 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock_2/01002620102C6000.zip",
+            "size": "473 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01002620102C6000"
+                }
+            }
+        },
+        "BioShock Infinite": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/BioShock_Infinite/0100D560102C8000.zip",
+            "size": "1.17 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D560102C8000"
+                }
+            }
+        },
+        "Black Paradox": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Black_Pardox/010071900D95A000.zip",
+            "size": "1.31 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010071900D95A000"
+                }
+            }
+        },
+        "Borderlands The Pre-Sequel": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Borderlands_TPS/010007400FF24000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010007400FF24000"
+                }
+            }
+        },
+        "Cadence of Hyrule": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cadende_of_Hyrule/01000B900D8B0000.zip",
+            "size": "5.01 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01000B900D8B0000"
+                }
+            }
+        },
+        "Captain Toad Treasure Tracker": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/captaintoadtt/01009BF0072D4000.zip",
+            "size": "547 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009BF0072D4000"
+                }
+            }
+        },
+        "Cat Quest": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cat_Quest/0100A2F006FBE000.zip",
+            "size": "1.38 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100A2F006FBE000"
+                }
+            }
+        },
+        "Cathedral": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cathedral/0100BEB01327A000.zip",
+            "size": "73.3 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100BEB01327A000"
+                }
+            }
+        },
+        "Cobra Kai": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
+            "size": "93.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005790110F0000"
+                }
+            }
+        },
+        "Crysis 2 Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
+            "size": "2.13 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100582010AE0000"
+                }
+            }
+        },
+        "Crysis 3 Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis3/0100CD3010AE2000.zip",
+            "size": "310 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CD3010AE2000"
+                }
+            }
+        },
+        "Crysis Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Crysis_Remastered/0100E66010ADE000.zip",
+            "size": "555 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100E66010ADE000"
+                }
+            }
+        },
+        "Dark Devotion": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Dark_Devotion/010083A00BF6C000.zip",
+            "size": "571 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010083A00BF6C000"
+                }
+            }
+        },
+        "Deltarune": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Deltarune/010023800D64A000.zip",
+            "size": "11 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010023800D64A000"
+                }
+            }
+        },
+        "Divinity 2 - Original Sin DE": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Divinity_2_Original_Sin/010027400CDC6000.zip",
+            "size": "6.69 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010027400CDC6000"
+                }
+            }
+        },
+        "Don't Starve": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Don't_Starve/0100751007ADA000.zip",
+            "size": "1.59 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100751007ADA000"
+                }
+            }
+        },
+        "Donkey Kong Tropical Freeze": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dktf/0100C1F0051B6000.zip",
+            "size": "466 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100C1F0051B6000"
+                }
+            }
+        },
+        "Doom 64": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_64/01005D700E742000.zip",
+            "size": "26.7 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005D700E742000"
+                }
+            }
+        },
+        "Doom Leg+Dub": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_LEG_AUD/0100416004C00000.zip",
+            "size": "149 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100416004C00000"
+                }
+            }
+        },
+        "Doorkickers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doorkickers/0100B0601205E000.zip",
+            "size": "2.68 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100B0601205E000"
+                }
+            }
+        },
+        "Eagle Island": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Eagle_Island/010037400C7DA000.zip",
+            "size": "18.1 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010037400C7DA000"
+                }
+            }
+        },
+        "Evoland": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Evoland/0100ED100B160000.zip",
+            "size": "507 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100ED100B160000"
+                }
+            }
+        },
+        "Final Fantasy IX": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffix/01007ef00b094000.zip",
+            "size": "53.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007ef00b094000"
+                }
+            }
+        },
+        "Final Fantasy VII": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffvii/0100A5B00BDC6000.zip",
+            "size": "427 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100A5B00BDC6000"
+                }
+            }
+        },
+        "Final Fantasy VIII": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffviii/01008B900DC0A000.zip",
+            "size": "459 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01008B900DC0A000"
+                }
+            }
+        },
+        "Final Fantasy XII Zodiac Age": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
+            "size": "41.6 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100EB100AB42000"
+                }
+            }
+        },
+        "Firewatch": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
+            "size": "84.4 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100AC300919A000"
+                }
+            }
+        },
+        "Flynn Son of Crimson": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Flynn_Son_of_Crimson/01005F2014B80000.zip",
+            "size": "27.9 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005F2014B80000"
+                }
+            }
+        },
+        "Forgotton Anne": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Forgotton_Anne/010059E00B93C000.zip",
+            "size": "24.1 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010059E00B93C000"
+                }
+            }
+        },
+        "Fox N Forests": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Fox_n_Forests/01008A100A028000.zip",
+            "size": "552 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01008A100A028000"
+                }
+            }
+        },    
+        "Ghostbusters The Video Game Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
+            "size": "164 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100EAE00D9EC000"
+                }
+            }
+        },
+        "Good Job": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Good_Job/0100B0500FE4E000.zip",
+            "size": "36.7 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100B0500FE4E000"
+                }
+            }
+        },
+        "Huntdown": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Huntdown/0100EBA004726000.zip",
+            "size": "2.27 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100EBA004726000"
+                }
+            }
+        },
+        "Isoland": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
+            "size": "289 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010065200D192000"
+                }
+            }
+        },
+        "Kirby - Forgotten Lands": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
+            "size": "483 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01004D300C5AE000"
+                }
+            }
+        },
+        "Kirby - Star Allies": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kirby_Star_Allies/01007E3006DDA000.zip",
+            "size": "483 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007E3006DDA000"
+                }
+            }
+        },
+        "L.A Noire": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/LA_NOIRE/0100830004FB6000.zip",
+            "size": "1.54 GB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100830004FB6000"
+                }
+            }
+        },
+        "Lifeless Planet Premiere Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Lifeless_Planet_Premiere_Edition/01005B6008132000.zip",
+            "size": "486 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005B6008132000"
+                }
+            }
+        },
+          "Legend of Mana Remastered (Requer Update 1.1.0)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
+            "size": "718 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01003570130E2000"
+                }
+            }
+        },
+        "Mario 3D World + Bowser Fury": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SM3DW/010028600EBDA000.zip",
+            "size": "86.9 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010028600EBDA000"
+                }
+            }
+        },
+        "Mario Kart 8 Deluxe": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mk8d/0100152000022000.zip",
+            "size": "54.5 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100152000022000"
+                }
+            }
+        },
+        "Mario Tennis Aces": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MTA/0100BDE00862A000.zip",
+            "size": "138 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100BDE00862A000"
+                }
+            }
+        },
+        "Mark of the Ninja Remastered": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/markoftheninjaremastered/01009A700A538000.zip",
+            "size": "96.5 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009A700A538000"
+                }
+            }
+        },
+        "Marsupilami Hoobaventure": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MARSUPILAMI/010074F014628000.zip",
+            "size": "31 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010074F014628000"
+                }
+            }
+        },
+        "Mega Man 11": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megaman11/0100B0C0086B0000.zip",
+            "size": "516 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100B0C0086B0000"
+                }
+            }
+        },
+        "Mega Man Zero/ZX Legacy Collection": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megamanzero/010025C00D410000.zip",
+            "size": "5.75 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010025C00D410000"
+                }
+            }
+        },
+        "Metro 2033 Redux": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_2033_Redux/0100D4900E82C000.zip",
+            "size": "3.28 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D4900E82C000"
+                }
+            }
+        },
+        "Metro Last Light Redux": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_Last_Ligth_Redux/0100F0400E850000.zip",
+            "size": "4.47 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100F0400E850000"
+                }
+            }
+        },
+        "Metroid Dread": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/metroid_dread/010093801237C000.zip",
+            "size": "731 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010093801237C000"
+                }
+            }
+        },
+        "Mugster": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
+            "size": "8.02 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010073E008E6E000"
+                }
+            }
+        },
+        "My Time at Portia": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
+            "size": "29 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100E25008E68000"
+                }
+            }
+        },
+        "New Pokemon Snap": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/NPKMS/0100f4300bf2c000.zip",
+            "size": "205 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100f4300bf2c000"
+                }
+            }
+        },
+        "New Super Mario Bros. U Deluxe": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nsmbu/0100EA80032EA000.zip",
+            "size": "53 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100EA80032EA000"
+                }
+            }
+        },
+        "OctoDad": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/OctoDad/0100CAB006F54000.zip",
+            "size": "518 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CAB006F54000"
+                }
+            }
+        },
+        "Octopath Traveler": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Octopath_Traveler/010057D006492000.zip",
+            "size": "9.04 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010057D006492000"
+                }
+            }
+        },
+        "Okami HD": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/okamihd/0100276009872000.zip",
+            "size": "216 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100276009872000"
+                }
+            }
+        },
+        "Onimusha Warlords": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Onimusha_Warlords/0100416008A12000.zip",
+            "size": "72.4 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100416008A12000"
+                }
+            }
+        },
+        "Overcooked": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Overcooked/01009B900401E000.zip",
+            "size": "12.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009B900401E000"
+                }
+            }
+        },
+        "Paper Mario Origami King": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PPMOK/0100A3900C3E2000.zip",
+            "size": "2.34 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100A3900C3E2000"
+                }
+            }
+        },
+        "Pikmin 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pikmin_3/0100F4C009322000.zip",
+            "size": "1.86 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100F4C009322000"
+                }
+            }
+        },
+        "Pillar of Eternity": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pillars_of_Eternity/0100D6200E130000.zip",
+            "size": "17 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D6200E130000"
+                }
+            }
+        },
+        "Planet Alpha": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Planet_Alpha/010003C0099EE000.zip",
+            "size": "1.29 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010003C0099EE000"
+                }
+            }
+        },
+        "Pokemon Brilliant Diamond": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmbp/0100000011d90000.zip",
+            "size": "34.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100000011d90000"
+                }
+            }
+        },
+        "Pokemon Legend of Arceus": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLA/01001F5010DFA000.zip",
+            "size": "26.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01001F5010DFA000"
+                }
+            }
+        },
+        "Pokemon Let's Go Eevee": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLE/0100187003A36000.zip",
+            "size": "10.6 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100187003A36000"
+                }
+            }
+        },
+        "Pokemon Let's Go Pikachu": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLP/010003F003A34000.zip",
+            "size": "10.6 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010003F003A34000"
+                }
+            }
+        },
+        "Pokemon Shield": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSHIELD/01008db008c2c000.zip",
+            "size": "24.9 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01008db008c2c000"
+                }
+            }
+        },
+        "Pokemon Shining Pearl": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmsp/010018e011d92000.zip",
+            "size": "26.4 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010018e011d92000"
+                }
+            }
+        },
+        "Pokemon Sword": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSWORD/0100abf008968000.zip",
+            "size": "24.9 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100abf008968000"
+                }
+            }
+        },
+        "Potata": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
+            "size": "82.7 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01005FC010EB2000"
+                }
+            }
+        },
+        "Resident Evil Hd Remaster": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/rehdremaster/010050F00BC1A000.zip",
+            "size": "20.5 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010050F00BC1A000"
+                }
+            }
+        },
+        "Rivals of Aether": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Rivals_of_Aether/0100D2700DE7C000.zip",
+            "size": "56.1 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D2700DE7C000"
+                }
+            }
+        },
+        "Scott Pilgrim": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Scott_Pilgrim/0100394011C30000.zip",
+            "size": "47.6 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100394011C30000"
+                }
+            }
+        },
+        "Shantae Half Genie": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shantae_Half_Genie/01006A200936C000.zip",
+            "size": "4.87 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01006A200936C000"
+                }
+            }
+        },
+        "Shio": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shio/0100C2F00A568000.zip",
+            "size": "2.06 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100C2F00A568000"
+                }
+            }
+        },
+        "Skellboy Refractured": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skellboy_Refractured/0100D7001453A000.zip",
+            "size": "4.56 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D7001453A000"
+                }
+            }
+        },
+        "Skyrim": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/skyrim/01000A10041EA000.zip",
+            "size": "2.94 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01000A10041EA000"
+                }
+            }
+        },
+        "Snipperclips": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Snipperclips/0100704000B3A000.zip",
+            "size": "47.6 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100704000B3A000"
+                }
+            }
+        },
+        "Sonic Mania Plus": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
+            "size": "181 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009AA000FAA000"
+                }
+            }
+        },
+        "South Park The Stick of Truth": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/southparktst/southpark.zip",
+            "size": "1.55 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010095300b6a4800",
+                    "path02": "010095300b6a4000",
+                    "path03": "010043600B6A6000"
+                }
+            }
+        },
+        "Steamworld Dig": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig/01009320084A4000.zip",
+            "size": "31.4 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009320084A4000"
+                }
+            }
+        },
+        "Steamworld Dig 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig_2/0100CA9002322000.zip",
+            "size": "4.27 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CA9002322000"
+                }
+            }
+        },
+        "Steamworld Heist": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Heist/010016100A186000.zip",
+            "size": "4.02 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010016100A186000"
+                }
+            }
+        },
+        "Super Cable Boy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/supercableboy/01008260145F2000.zip",
+            "size": "41.6 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01008260145F2000"
+                }
+            }
+        },
+        "Super Mario Maker 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
+            "size": "477 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009B90006DC000"
+                }
+            }
+        },
+        "Super Mario Odyssey": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MarioOdysseyJMC/0100000000010000.zip",
+            "size": "759 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100000000010000"
+                }
+            }
+        },
+        "Super Mario Party": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
+            "size": "2.75 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010036B0034E4000"
+                }
+            }
+        },
+        "Super Mario Galaxy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mariogalaxy/Super.Mario.Galaxy.NX.zip",
+            "size": "579 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010049900F546000",
+                    "path02": "010049900F546003"
+                }
+            }
+        },
+        "Super Mario Sunshine": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
+            "size": "298 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010049900F546000",
+                    "path02": "010049900F546002"
+                }
+            }
+        },
+        "Sword of Necromancer": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sword_of_Necromancer/0100E4701355C000.zip",
+            "size": "56.9 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100E4701355C000"
+                }
+            }
+        },
+        "Syberia": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/syberia/0100421003FD4000.zip",
+            "size": "6.98 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100421003FD4000"
+                }
+            }
+        },
+        "Syberia 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Syberia_2/010028C003FD6000.zip",
+            "size": "3.84 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010028C003FD6000"
+                }
+            }
+        },
+        "The Escapists": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/theescapists/01001B700BA7C000.zip",
+            "size": "891 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01001B700BA7C000"
+                }
+            }
+        },
+        "The House of The Dead": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
+            "size": "1.09 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010088401495E000"
+                }
+            }
+        },
+        "The Scretchers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
+            "size": "1.88 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100AA400A238000"
+                }
+            }
+        },
+        "The Talos Principle": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Talos_Principle/010092A00D43C000.zip",
+            "size": "88.4 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010092A00D43C000"
+                }
+            }
+        },
+        "Titan Quest": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Titan_Quest/0100605008268000.zip",
+            "size": "460 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100605008268000"
+                }
+            }
+        },
+        "Torchlight II": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Torchlight_II/010090400D366000.zip",
+            "size": "512 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010090400D366000"
+                }
+            }
+        },
+        "TOUHOU Luna Nights": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/TOUHOU_Luna_Nights/0100D850131B0000.zip",
+            "size": "33.2 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D850131B0000"
+                }
+            }
+        },
+    "Triangle Strategy": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
+            "size": "58.8 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100CC80140F8000"
+                }
+            }
+        },    
+        "Trine": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
+            "size": "184 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100d9000a930000"
+                }
+            }
+        },
+        "Trine 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_2/010064E00A932000.zip",
+            "size": "13.3 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010064E00A932000"
+                }
+            }
+        },
+        "Trine 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_3/0100DEC00A934000.zip",
+            "size": "13 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100DEC00A934000"
+                }
+            }
+        },
+        "Ultra Street Fighter II The Final Challengers": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/stftfc/street.zip",
+            "size": "1.62 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007330027EE800",
+                    "path02": "01007330027EE000",
+                    "path03": "0100C86000B58000",
+                    "path04": "0100BBF0027EC000"
+                }
+            }
+        },
+        "Undertale": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Undertale/010080B00AD66000.zip",
+            "size": "43.7 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010080B00AD66000"
+                }
+            }
+        },
+        "Unravel 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Unravel_2/0100E5D00CC0C000.zip",
+            "size": "145 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100E5D00CC0C000"
+                }
+            }
+        },
+        "Wildfire": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Wildfire/0100D9D011E3C000.zip",
+            "size": "361 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100D9D011E3C000"
+                }
+            }
+        },
+        "Worms WMD": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Worms_WMD/01001AE005166000.zip",
+            "size": "191 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01001AE005166000"
+                }
+            }
+        },
+        "Xenoblade Chronicles 2": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade2/0100e95004039002.zip",
+            "size": "2.47 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100e95004039002"
+                }
+            }
+        },
+        "Xenoblade Chronicles Definitive Edition": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenobladeDE/0100FF500E34A000.zip",
+            "size": "8.53 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100FF500E34A000"
+                }
+            }
+        },
+        "Yester Morrow": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/YesterMorrow/010076B0101A0000.zip",
+            "size": "28.1 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010076B0101A0000"
+                }
+            }
+        },
+        "Yooka Laylee": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_laylee/0100F110029C8000.zip",
+            "size": "72.4 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "0100F110029C8000"
+                }
+            }
+        },
+        "Yooka Laylee and The Impossible Lair": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_layleeIP/010022F00DA66000.zip",
+            "size": "929 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010022F00DA66000"
+                }
+            }
+        },
+        "Yoshi's Crafted World": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yoshi/01006000040C2000.zip",
+            "size": "348 KB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01006000040C2000"
+                }
+            }
+        },
+        "Yu-gi-Oh Link Evolution": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yugiohle/010022400BE5A000.zip",
+            "size": "1.51 GB",
+            "installed": {
+                "uninstall": {
+                    "path01": "010022400BE5A000"
+                }
+            }
+        },
+        "Zelda™: Breath of The Wild": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
+            "size": "6.39 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007EF00011E000"
+                }
+            }
+        },
+        "Zelda™: Breath of The Wild - Leg+Dub": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
+            "size": "107 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01007EF00011E000",
+                    "path02": "01007EF00011F001"
+                }
+            }
+        },
+        "Zelda™: Link's Awakening": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldala/01006BB00C6F0000.zip",
+            "size": "487 KB",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/ui/StartUp.arc",
+                "hash_size": 3541304,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/ui",
+                    "path02": "01006BB00C6F0000/romfs/regionEU",
+                    "path03": "01006BB00C6F0000/romfs/regionUS"
+                }
+            }
+        },
+        "Zelda™: Skyward Sword": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skyward_Sword/01002DA013484000.zip",
+            "size": "24.7 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01002DA013484000"
+                }
+            }
+        }
+    },
+    "modifications": {
+        "Diablo II Resurrected - Offline Patch (1.0.0.14)": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/diabloii10010/0100726014352000.zip",
+            "size": "11.7 MB",
+            "installed": {
+                "hash_file": "0100726014352000/exefs/main",
+                "hash_size": 16417444,
+                "uninstall": {
+                    "path01": "0100726014352000/exefs/"
+                }
+            }
+        },
+    "Mario Strikers Battle League FIX EMUMMC SD Files": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010019401051C000/romfs/Movies/IntroMovie.webm",
+                "hash_size": 6639,
+                "uninstall": {
+                    "path01": "010019401051C000/romfs/Movies/"
+                }
+            }
+        },
+    "Metroid Dread Easy Mode": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/metroidprimeeasy/010093801237C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "010093801237C000/romfs/config.ini",
+                "hash_size": 87238,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs"
+                }
+            }
+        },
+        "SNES 300 ROMS - Nintendo Switch Online": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
+            "size": "431 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01006BB00C6F0000",
+                    "path02": "01007EF00011E000",
+                    "path03": "01008D300C50C000"
+                }
+            }
+        },
+        "Zelda™: Link's Awakening - No Blur": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
+            "size": "280 KB",
+            "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/region_common/shader/postprocess.bfsha",
+                "hash_size": 2966464,
+                "uninstall": {
+                    "path01": "01006BB00C6F0000/romfs/region_common/shader"
+                }
+            }
+        }
+    },
+    "GMPACK-MOTD": {
+        "enabled": true,
+        "always_show": true,
+        "message": "14/06/2022 10:30AM\nBem-vindo ao pacote GMPACK!\n\nUm novo firmware para a família de consoles portáteis Nintendo Switch™ foi lançado no dia 13-06-2022 e subiu a versão para 14.1.2.\nTestamos e confirmamos que o Atmosphère 1.3.2, Hekate 5.7.2 (Nyx 1.2.2) e MissionControl 0.7.0 são compatíveis com esta nova versão.\nNão testamos todos os outros homebrews e algum pode não funcionar corretamente, portanto, atualizem para a versão 14.1.2 por conta e risco.\n\nObrigado!"
+   },
+    "CNXPACK-MOTD": {
+        "enabled": true,
+        "always_show": true,
+        "message":  "13/06/2022 21:44\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX! Suporte ao Firmware 14.1.2!"
+    },
+    "SGM-MOTD": {
+        "enabled": true,
+        "always_show": false,
+        "message": "06/05/2022 21:36\nAVISO!\n\nBem-vindo ao pacote SGM!"
+    },
+    "cfws": {
+        "GMPACK": {
+            "releases": "https://api.github.com/repos/coldmvm/gmpack/releases/latest"
+        },
+        "CNXPACK": {
+            "releases": "https://api.github.com/repos/AMSNX/CNX-Pack-for-Updater/releases/latest"
+        },
+        "SGM": {
+            "releases": "https://api.github.com/repos/SGMSteel/sgmpack/releases/latest"
+        },
+        "GNX": {
+            "releases": "https://api.github.com/repos/Goma1337/GNXSD/releases/latest"
+        }
+    },
+    "firmwares": {
+        "releases": "https://api.github.com/repos/AMSNX/NX-Firmwares/releases"
+    }
+}
