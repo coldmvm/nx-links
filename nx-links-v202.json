@@ -1322,6 +1322,16 @@
                 }
             }
         },
+        "Sonic Origins (S3 & K) - Músicas Originais": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/s3%26k-music/s3_k_musicas_originais.zip",
+            "size": "122 MB",
+            "installed": {
+                "uninstall": {
+                    "path01": "01009FB016286000"
+                }
+            }
+        },
         "Zelda™: Link's Awakening - No Blur": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
