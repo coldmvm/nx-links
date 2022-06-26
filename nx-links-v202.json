@@ -1306,6 +1306,19 @@
                 }
             }
         },
+		"Nintendo 64 Online ( Fullscreen Mod )": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
+            "size": "86 KB",
+            "installed": {
+                "hash_file": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/sys/sysmain.scn",
+                "hash_size": 340503,
+                "uninstall": {
+                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/"
+					"path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
+                }
+            }
+        },
         "Mario Strikers Battle League FIX EMUMMC SD Files": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/mariostrikersfix/010019401051C000.zip",
