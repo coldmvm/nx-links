@@ -1314,7 +1314,7 @@
                 "hash_file": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/sys/sysmain.scn",
                 "hash_size": 340503,
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/"
+                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/",
 					"path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
                 }
             }
