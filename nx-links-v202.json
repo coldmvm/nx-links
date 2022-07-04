@@ -290,7 +290,7 @@
                 }
             }
         },
-		"Fallout Shelter": {
+        "Fallout Shelter": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/falloutshelter/010043500A17A000.zip",
             "size": "6.14 MB",
@@ -805,8 +805,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Scott_Pilgrim/0100394011C30000.zip",
             "size": "47.6 KB",
             "installed": {
+                "hash_file": "0100394011C30000/romfs/final/localization/english.bof",
+                "hash_size": 207758,
                 "uninstall": {
-                    "path01": "0100394011C30000"
+                    "path01": "0100394011C30000/romfs"
                 }
             }
         },
@@ -1074,7 +1076,7 @@
                 }
             }
         },
-    "Triangle Strategy": {
+        "Triangle Strategy": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
             "size": "58.8 MB",
@@ -1296,7 +1298,7 @@
                 }
             }
         },
-		"Nintendo 64 Online": {
+        "Nintendo 64 Online": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
@@ -1306,7 +1308,7 @@
                 }
             }
         },
-		"Nintendo 64 Online ( Fullscreen Mod )": {
+        "Nintendo 64 Online ( Fullscreen Mod )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64fullscreen/0100C9A00ECE6000_FULLSCREEN.zip",
             "size": "38.2 KB",
@@ -1315,7 +1317,7 @@
                 "hash_size": 340503,
                 "uninstall": {
                     "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/",
-					"path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
+                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
                 }
             }
         },
