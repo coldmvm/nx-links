@@ -5,8 +5,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
             "size": "53.7 MB",
             "installed": {
+				"hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+                "hash_size": 1894439,
                 "uninstall": {
-                    "path01": "01000320000CC000"
+                    "path01": "01000320000CC000/romfs"
                 }
             }
         },
@@ -15,8 +17,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/12_is_better_than_6/01007F600D1B8000.zip",
             "size": "622 KB",
             "installed": {
+                "hash_file": "01007F600D1B8000/romfs/localization.csv",
+                "hash_size": 921202,
                 "uninstall": {
-                    "path01": "01007F600D1B8000"
+                    "path01": "01007F600D1B8000/romfs"
                 }
             }
         },
@@ -25,8 +29,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
             "size": "264 KB",
             "installed": {
+                "hash_file": "01001B7012214000/romfs/Data/resources.assets",
+                "hash_size": 825868,
                 "uninstall": {
-                    "path01": "01001B7012214000"
+                    "path01": "01001B7012214000/romfs"
                 }
             }
         },
@@ -35,8 +41,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/AM2RNX/0100414d32524e00.zip",
             "size": "121 KB",
             "installed": {
+                "hash_file": "0100414d32524e00/romfs/lang/languagues.txt",
+                "hash_size": 87,
                 "uninstall": {
-                    "path01": "0100414d32524e00"
+                    "path01": "0100414d32524e00/romfs"
                 }
             }
         },
@@ -45,8 +53,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/archvale/0100A4D0146B2000.zip",
             "size": "248 KB",
             "installed": {
+                "hash_file": "0100A4D0146B2000/romfs/locdoc.csv",
+                "hash_size": 629840,
                 "uninstall": {
-                    "path01": "0100A4D0146B2000"
+                    "path01": "0100A4D0146B2000/romfs"
                 }
             }
         },
@@ -55,8 +65,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/bayonetta/010076F0049A2000.zip",
             "size": "464 MB",
             "installed": {
+                "hash_file": "0100A4D0146B2000/romfs/locdoc.csv",
+                "hash_size": 629840,
                 "uninstall": {
-                    "path01": "010076F0049A2000"
+                    "path01": "0100A4D0146B2000/romfs"
                 }
             }
         },
@@ -65,8 +77,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock/0100AD10102B2000.zip",
             "size": "299 KB",
             "installed": {
+                "hash_file": "0100AD10102B2000/romfs/localizedint.lbf",
+                "hash_size": 854628,
                 "uninstall": {
-                    "path01": "0100AD10102B2000"
+                    "path01": "0100AD10102B2000/romfs"
                 }
             }
         },
@@ -75,8 +89,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Bioshock_2/01002620102C6000.zip",
             "size": "473 KB",
             "installed": {
+                "hash_file": "01002620102C6000/romfs/localizedint.lbf",
+                "hash_size": 3039512,
                 "uninstall": {
-                    "path01": "01002620102C6000"
+                    "path01": "01002620102C6000/romfs"
                 }
             }
         },
@@ -85,8 +101,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/BioShock_Infinite/0100D560102C8000.zip",
             "size": "1.17 MB",
             "installed": {
+                "hash_file": "0100D560102C8000/romfs/DLC/DLCA/Localization/INT/DCLA_ZEP_Tear_Ship.INT",
+                "hash_size": 34822,
                 "uninstall": {
-                    "path01": "0100D560102C8000"
+                    "path01": "0100D560102C8000/romfs"
                 }
             }
         },
@@ -95,8 +113,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Black_Pardox/010071900D95A000.zip",
             "size": "1.31 MB",
             "installed": {
+                "hash_file": "010071900D95A000/romfs/Data/sharedassets0.assets",
+                "hash_size": 4576104,
                 "uninstall": {
-                    "path01": "010071900D95A000"
+                    "path01": "010071900D95A000/romfs"
                 }
             }
         },
@@ -105,8 +125,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Borderlands_TPS/010007400FF24000.zip",
             "size": "1.09 MB",
             "installed": {
+                "hash_file": "010007400FF24000/romfs/NXTOC.txt",
+                "hash_size": 86172,
                 "uninstall": {
-                    "path01": "010007400FF24000"
+                    "path01": "010007400FF24000/romfs"
                 }
             }
         },
@@ -115,8 +137,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cadende_of_Hyrule/01000B900D8B0000.zip",
             "size": "5.01 MB",
             "installed": {
+                "hash_file": "01000B900D8B0000/romfs/localization.xml",
+                "hash_size": 2252584,
                 "uninstall": {
-                    "path01": "01000B900D8B0000"
+                    "path01": "01000B900D8B0000/romfs"
                 }
             }
         },
@@ -125,8 +149,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/captaintoadtt/01009BF0072D4000.zip",
             "size": "547 KB",
             "installed": {
+                "hash_file": "01009BF0072D4000/romfs/LocalizedData/USen/LayoutData/FontData.szs",
+                "hash_size": 717836,
                 "uninstall": {
-                    "path01": "01009BF0072D4000"
+                    "path01": "01009BF0072D4000/romfs"
                 }
             }
         },
@@ -135,8 +161,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cat_Quest/0100A2F006FBE000.zip",
             "size": "1.38 MB",
             "installed": {
+                "hash_file": "0100A2F006FBE000/romfs/Data/sharedassets0.assets",
+                "hash_size": 8305320,
                 "uninstall": {
-                    "path01": "0100A2F006FBE000"
+                    "path01": "0100A2F006FBE000/romfs"
                 }
             }
         },
@@ -145,8 +173,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Cathedral/0100BEB01327A000.zip",
             "size": "73.3 KB",
             "installed": {
+                "hash_file": "0100BEB01327A000/romfs/lang/en-us.lang",
+                "hash_size": 129760,
                 "uninstall": {
-                    "path01": "0100BEB01327A000"
+                    "path01": "0100BEB01327A000/romfs"
                 }
             }
         },
