@@ -185,8 +185,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/cobrakai/01005790110F0000.zip",
             "size": "93.3 MB",
             "installed": {
+                "hash_file": "01005790110F0000/romfs/Data/resources.assets",
+                "hash_size": 181169608,
                 "uninstall": {
-                    "path01": "01005790110F0000"
+                    "path01": "01005790110F0000/romfs"
                 }
             }
         },
@@ -194,9 +196,10 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
             "size": "2.13 MB",
-            "installed": {
+            "hash_file": "0100582010AE0000/romfs/gamecrysis2/localized/english.pak",
+                "hash_size": 3086510,
                 "uninstall": {
-                    "path01": "0100582010AE0000"
+                    "path01": "0100582010AE0000/romfs"
                 }
             }
         },
@@ -205,8 +208,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis3/0100CD3010AE2000.zip",
             "size": "310 MB",
             "installed": {
+                "hash_file": "0100CD3010AE2000/romfs/localization/english.pak",
+                "hash_size": 375102762,
                 "uninstall": {
-                    "path01": "0100CD3010AE2000"
+                    "path01": "0100CD3010AE2000/romfs"
                 }
             }
         },
@@ -214,9 +219,11 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Crysis_Remastered/0100E66010ADE000.zip",
             "size": "555 KB",
-            "installed": {
+			"installed": {
+            "hash_file": "0100E66010ADE000/romfs/patch/localized/english2.pak",
+                "hash_size": 568964,
                 "uninstall": {
-                    "path01": "0100E66010ADE000"
+                    "path01": "0100E66010ADE000/romfs"
                 }
             }
         },
@@ -235,8 +242,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Deltarune/010023800D64A000.zip",
             "size": "11 MB",
             "installed": {
+                "hash_file": "010023800D64A000/romfs/game.win",
+                "hash_size": 19712748,
                 "uninstall": {
-                    "path01": "010023800D64A000"
+                    "path01": "010023800D64A000/romfs"
                 }
             }
         },
@@ -245,8 +254,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Divinity_2_Original_Sin/010027400CDC6000.zip",
             "size": "6.69 MB",
             "installed": {
+                "hash_file": "010027400CDC6000/romfs/Data/Localization/English.pak",
+                "hash_size": 8690995,
                 "uninstall": {
-                    "path01": "010027400CDC6000"
+                    "path01": "010027400CDC6000/romfs"
                 }
             }
         },
@@ -254,9 +265,10 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Don't_Starve/0100751007ADA000.zip",
             "size": "1.59 MB",
-            "installed": {
+            "hash_file": "0100751007ADA000/romfs/DLC0002/dlcinfo.txt",
+                "hash_size": 4,
                 "uninstall": {
-                    "path01": "0100751007ADA000"
+                    "path01": "0100751007ADA000/romfs"
                 }
             }
         },
@@ -265,8 +277,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/dktf/0100C1F0051B6000.zip",
             "size": "466 MB",
             "installed": {
+                "hash_file": "0100C1F0051B6000/romfs/MiscData.pak",
+                "hash_size": 1056192,
                 "uninstall": {
-                    "path01": "0100C1F0051B6000"
+                    "path01": "0100C1F0051B6000/romfs"
                 }
             }
         },
@@ -275,8 +289,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_64/01005D700E742000.zip",
             "size": "26.7 MB",
             "installed": {
+                "hash_file": "01005D700E742000/romfs/Doom64.kpf",
+                "hash_size": 27970112,
                 "uninstall": {
-                    "path01": "01005D700E742000"
+                    "path01": "01005D700E742000/romfs"
                 }
             }
         },
@@ -285,8 +301,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doom_LEG_AUD/0100416004C00000.zip",
             "size": "149 MB",
             "installed": {
+                "hash_file": "0100416004C00000/romfs/base/gameresources_004.patch",
+                "hash_size": 5047356,
                 "uninstall": {
-                    "path01": "0100416004C00000"
+                    "path01": "0100416004C00000/romfs"
                 }
             }
         },
@@ -295,8 +313,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Doorkickers/0100B0601205E000.zip",
             "size": "2.68 MB",
             "installed": {
+                "hash_file": "0100B0601205E000/romfs/mod.xml",
+                "hash_size": 1185,
                 "uninstall": {
-                    "path01": "0100B0601205E000"
+                    "path01": "0100B0601205E000/romfs"
                 }
             }
         },
@@ -305,8 +325,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Eagle_Island/010037400C7DA000.zip",
             "size": "18.1 KB",
             "installed": {
+                "hash_file": "010037400C7DA000/romfs/Content/languages/credits",
+                "hash_size": 1541,
                 "uninstall": {
-                    "path01": "010037400C7DA000"
+                    "path01": "010037400C7DA000/romfs"
                 }
             }
         },
@@ -315,8 +337,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Evoland/0100ED100B160000.zip",
             "size": "507 MB",
             "installed": {
+                "hash_file": "0100B0601205E000/romfs/evo1.pak",
+                "hash_size": 66661614,
                 "uninstall": {
-                    "path01": "0100ED100B160000"
+                    "path01": "0100B0601205E000/romfs"
                 }
             }
         },
@@ -325,8 +349,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/falloutshelter/010043500A17A000.zip",
             "size": "6.14 MB",
             "installed": {
+                "hash_file": "010043500A17A000/romfs/data/resources.assets",
+                "hash_size": 34799400,
                 "uninstall": {
-                    "path01": "010043500A17A000"
+                    "path01": "010043500A17A000/romfs"
                 }
             }
         },
@@ -335,8 +361,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffix/01007ef00b094000.zip",
             "size": "53.3 MB",
             "installed": {
+                "hash_file": "01007ef00b094000/romfs/data/resources.assets",
+                "hash_size": 205302420,
                 "uninstall": {
-                    "path01": "01007ef00b094000"
+                    "path01": "01007ef00b094000/romfs"
                 }
             }
         },
@@ -345,8 +373,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffvii/0100A5B00BDC6000.zip",
             "size": "427 MB",
             "installed": {
+                "hash_file": "0100B0601205E000/romfs/ff7/resources/ff7_1.02",
+                "hash_size": 6421856,
                 "uninstall": {
-                    "path01": "0100A5B00BDC6000"
+                    "path01": "0100B0601205E000/romfs"
                 }
             }
         },
@@ -355,8 +385,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffviii/01008B900DC0A000.zip",
             "size": "459 MB",
             "installed": {
+                "hash_file": "01008B900DC0A000/romfs/be_loc/be_loc_en.xml",
+                "hash_size": 742,
                 "uninstall": {
-                    "path01": "01008B900DC0A000"
+                    "path01": "01008B900DC0A000/romfs"
                 }
             }
         },
@@ -365,8 +397,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ffxii/0100EB100AB42000.zip",
             "size": "41.6 MB",
             "installed": {
+                "hash_file": "0100EB100AB42000/romfs/FFXII_TZA_PATCH.vbf",
+                "hash_size": 59269622,
                 "uninstall": {
-                    "path01": "0100EB100AB42000"
+                    "path01": "0100EB100AB42000/romfs"
                 }
             }
         },
@@ -375,8 +409,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Firewatch/0100AC300919A000.zip",
             "size": "84.4 MB",
             "installed": {
+                "hash_file": "0100AC300919A000/romfs/data/resources.assets",
+                "hash_size": 15605725,
                 "uninstall": {
-                    "path01": "0100AC300919A000"
+                    "path01": "0100AC300919A000/romfs"
                 }
             }
         },
