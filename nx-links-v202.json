@@ -421,8 +421,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Flynn_Son_of_Crimson/01005F2014B80000.zip",
             "size": "27.9 KB",
             "installed": {
+                "hash_file": "01005F2014B80000/romfs/langEN.ini",
+                "hash_size": 69505,
                 "uninstall": {
-                    "path01": "01005F2014B80000"
+                    "path01": "01005F2014B80000/romfs"
                 }
             }
         },
@@ -431,8 +433,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Forgotton_Anne/010059E00B93C000.zip",
             "size": "24.1 KB",
             "installed": {
+                "hash_file": "010059E00B93C000/romfs/Data/StreamingAssets/AssetBundles/languagelist",
+                "hash_size": 1537,
                 "uninstall": {
-                    "path01": "010059E00B93C000"
+                    "path01": "010059E00B93C000/romfs"
                 }
             }
         },
@@ -440,9 +444,10 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Fox_n_Forests/01008A100A028000.zip",
             "size": "552 KB",
-            "installed": {
+            "hash_file": "01008A100A028000/romfs/Data/resources.assets",
+                "hash_size": 2086920,
                 "uninstall": {
-                    "path01": "01008A100A028000"
+                    "path01": "01008A100A028000/romfs"
                 }
             }
         },    
@@ -451,8 +456,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
             "size": "164 MB",
             "installed": {
+                "hash_file": "0100EAE00D9EC000/romfs/LANGUAGE.POD",
+                "hash_size": 2086920,
                 "uninstall": {
-                    "path01": "0100EAE00D9EC000"
+                    "path01": "0100EAE00D9EC000/romfs"
                 }
             }
         },
@@ -461,8 +468,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Good_Job/0100B0500FE4E000.zip",
             "size": "36.7 KB",
             "installed": {
+                "hash_file": "0100B0500FE4E000/romfs/data/StreamingAssets/Localization/Project.msbp",
+                "hash_size": 3134827,
                 "uninstall": {
-                    "path01": "0100B0500FE4E000"
+                    "path01": "0100B0500FE4E000/romfs"
                 }
             }
         },
@@ -471,8 +480,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Huntdown/0100EBA004726000.zip",
             "size": "2.27 MB",
             "installed": {
+                "hash_file": "0100EBA004726000/romfs/Data/resources.assets",
+                "hash_size": 19617164,
                 "uninstall": {
-                    "path01": "0100EBA004726000"
+                    "path01": "0100EBA004726000/romfs"
                 }
             }
         },
@@ -481,8 +492,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Isoland/010065200D192000.zip",
             "size": "289 KB",
             "installed": {
+                "hash_file": "010065200D192000/romfs/Data/resources.assets",
+                "hash_size": 719288,
                 "uninstall": {
-                    "path01": "010065200D192000"
+                    "path01": "010065200D192000/romfs"
                 }
             }
         },
@@ -491,8 +504,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kyrby_Forgotten_Lands/01004D300C5AE000.zip",
             "size": "483 KB",
             "installed": {
+                "hash_file": "01004D300C5AE000/romfs/msg/Kirby15/US_English/AdviceWindow.msbt",
+                "hash_size": 4384,
                 "uninstall": {
-                    "path01": "01004D300C5AE000"
+                    "path01": "01004D300C5AE000/romfs"
                 }
             }
         },
@@ -501,8 +516,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Kirby_Star_Allies/01007E3006DDA000.zip",
             "size": "483 KB",
             "installed": {
+                "hash_file": "01007E3006DDA000/romfs/msg/Eclair/Eclair.msbp",
+                "hash_size": 3456,
                 "uninstall": {
-                    "path01": "01007E3006DDA000"
+                    "path01": "01007E3006DDA000/romfs"
                 }
             }
         },
@@ -511,8 +528,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/LA_NOIRE/0100830004FB6000.zip",
             "size": "1.54 GB",
             "installed": {
+                "hash_file": "0100830004FB6000/romfs/final/nx/cases.big.nx",
+                "hash_size": 9874112,
                 "uninstall": {
-                    "path01": "0100830004FB6000"
+                    "path01": "0100830004FB6000/romfs"
                 }
             }
         },
@@ -521,8 +540,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Lifeless_Planet_Premiere_Edition/01005B6008132000.zip",
             "size": "486 KB",
             "installed": {
+                "hash_file": "01005B6008132000/romfs/Data/resources.assets",
+                "hash_size": 164316,
                 "uninstall": {
-                    "path01": "01005B6008132000"
+                    "path01": "01005B6008132000/romfs"
                 }
             }
         },
@@ -531,8 +552,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/lomr/01003570130E2000.zip",
             "size": "718 MB",
             "installed": {
+                "hash_file": "01003570130E2000/romfs/text/EN_US.psb.m",
+                "hash_size": 483048,
                 "uninstall": {
-                    "path01": "01003570130E2000"
+                    "path01": "01003570130E2000/romfs"
                 }
             }
         },
@@ -541,8 +564,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SM3DW/010028600EBDA000.zip",
             "size": "86.9 KB",
             "installed": {
+                "hash_file": "010028600EBDA000/romfs/LocalizedData/EuPt/MessageData/LayoutMessage.szs",
+                "hash_size": 11792,
                 "uninstall": {
-                    "path01": "010028600EBDA000"
+                    "path01": "010028600EBDA000/romfs"
                 }
             }
         },
@@ -551,8 +576,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mk8d/0100152000022000.zip",
             "size": "54.5 KB",
             "installed": {
+                "hash_file": "0100152000022000/romfs/UI/EUpt/message.sarc",
+                "hash_size": 71268,
                 "uninstall": {
-                    "path01": "0100152000022000"
+                    "path01": "0100152000022000/romfs"
                 }
             }
         },
@@ -561,8 +588,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MTA/0100BDE00862A000.zip",
             "size": "138 KB",
             "installed": {
+                "hash_file": "0100BDE00862A000/romfs/msg/i18n_eu_en/msg_kernel.dat",
+                "hash_size": 337430,
                 "uninstall": {
-                    "path01": "0100BDE00862A000"
+                    "path01": "0100BDE00862A000/romfs"
                 }
             }
         },
@@ -571,8 +600,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/markoftheninjaremastered/01009A700A538000.zip",
             "size": "96.5 KB",
             "installed": {
+                "hash_file": "01009A700A538000/romfs/data-nx/bootstrap/localization/english.str",
+                "hash_size": 354296,
                 "uninstall": {
-                    "path01": "01009A700A538000"
+                    "path01": "01009A700A538000/romfs"
                 }
             }
         },
@@ -581,8 +612,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MARSUPILAMI/010074F014628000.zip",
             "size": "31 KB",
             "installed": {
+                "hash_file": "010074F014628000/romfs/Data/StreamingAssets/Localization.csv",
+                "hash_size": 90114,
                 "uninstall": {
-                    "path01": "010074F014628000"
+                    "path01": "010074F014628000/romfs"
                 }
             }
         },
@@ -591,8 +624,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megaman11/0100B0C0086B0000.zip",
             "size": "516 MB",
             "installed": {
+                "hash_file": "0100B0C0086B0000/romfs/nativeNXx64/arc/gameover.arc",
+                "hash_size": 150175,
                 "uninstall": {
-                    "path01": "0100B0C0086B0000"
+                    "path01": "0100B0C0086B0000/romfs"
                 }
             }
         },
@@ -601,8 +636,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/megamanzero/010025C00D410000.zip",
             "size": "5.75 MB",
             "installed": {
+                "hash_file": "010025C00D410000/romfs/nativeNXx64/RZZC/ZX/DATA/elf.bin",
+                "hash_size": 42908,
                 "uninstall": {
-                    "path01": "010025C00D410000"
+                    "path01": "010025C00D410000/romfs"
                 }
             }
         },
@@ -611,8 +648,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_2033_Redux/0100D4900E82C000.zip",
             "size": "3.28 MB",
             "installed": {
+                "hash_file": "0100D4900E82C000/romfs/content.vfx",
+                "hash_size": 3546555,
                 "uninstall": {
-                    "path01": "0100D4900E82C000"
+                    "path01": "0100D4900E82C000/romfs"
                 }
             }
         },
@@ -621,8 +660,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Metro_Last_Ligth_Redux/0100F0400E850000.zip",
             "size": "4.47 MB",
             "installed": {
+                "hash_file": "0100F0400E850000/romfs/content.vfx",
+                "hash_size": 5023741,
                 "uninstall": {
-                    "path01": "0100F0400E850000"
+                    "path01": "0100F0400E850000/romfs"
                 }
             }
         },
@@ -631,8 +672,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/metroid_dread/010093801237C000.zip",
             "size": "731 KB",
             "installed": {
+                "hash_file": "010093801237C000/romfs/system/localization/us_english.txt",
+                "hash_size": 145348,
                 "uninstall": {
-                    "path01": "010093801237C000"
+                    "path01": "010093801237C000/romfs"
                 }
             }
         },
@@ -641,8 +684,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Mugster/010073E008E6E000.zip",
             "size": "8.02 KB",
             "installed": {
+                "hash_file": "010073E008E6E000/romfs/Data/resources.assets",
+                "hash_size": 26724372,
                 "uninstall": {
-                    "path01": "010073E008E6E000"
+                    "path01": "010073E008E6E000/romfs"
                 }
             }
         },
@@ -651,8 +696,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mytimeatportia/0100E25008E68000.zip",
             "size": "29 MB",
             "installed": {
+                "hash_file": "0100E25008E68000/romfs/Data/StreamingAssets/Switch/AssetBundles/introduce",
+                "hash_size": 96390,
                 "uninstall": {
-                    "path01": "0100E25008E68000"
+                    "path01": "0100E25008E68000/romfs"
                 }
             }
         },
