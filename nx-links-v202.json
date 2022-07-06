@@ -196,7 +196,8 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/crysis2/0100582010AE0000.zip",
             "size": "2.13 MB",
-            "hash_file": "0100582010AE0000/romfs/gamecrysis2/localized/english.pak",
+            "installed": {
+                "hash_file": "0100582010AE0000/romfs/gamecrysis2/localized/english.pak",
                 "hash_size": 3086510,
                 "uninstall": {
                     "path01": "0100582010AE0000/romfs"
@@ -445,7 +446,8 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Fox_n_Forests/01008A100A028000.zip",
             "size": "552 KB",
-            "hash_file": "01008A100A028000/romfs/Data/resources.assets",
+            "installed": {
+                "hash_file": "01008A100A028000/romfs/Data/resources.assets",
                 "hash_size": 2086920,
                 "uninstall": {
                     "path01": "01008A100A028000/romfs"
