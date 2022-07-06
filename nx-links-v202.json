@@ -792,8 +792,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PPMOK/0100A3900C3E2000.zip",
             "size": "2.34 MB",
             "installed": {
+                "hash_file": "0100A3900C3E2000/romfs/font/FOT-PopJoyStd-B.bffnt.zst",
+                "hash_size": 563626,
                 "uninstall": {
-                    "path01": "0100A3900C3E2000"
+                    "path01": "0100A3900C3E2000/romfs"
                 }
             }
         },
@@ -802,8 +804,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pikmin_3/0100F4C009322000.zip",
             "size": "1.86 KB",
             "installed": {
+                "hash_file": "0100F4C009322000/romfs/EUEng/system/message.szs",
+                "hash_size": 593524,
                 "uninstall": {
-                    "path01": "0100F4C009322000"
+                    "path01": "0100F4C009322000/romfs"
                 }
             }
         },
@@ -812,8 +816,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Pillars_of_Eternity/0100D6200E130000.zip",
             "size": "17 MB",
             "installed": {
+                "hash_file": "0100D6200E130000/romfs/Data/StreamingAssets/Data/Localized.zip",
+                "hash_size": 19516346,
                 "uninstall": {
-                    "path01": "0100D6200E130000"
+                    "path01": "0100D6200E130000/romfs"
                 }
             }
         },
@@ -822,8 +828,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Planet_Alpha/010003C0099EE000.zip",
             "size": "1.29 MB",
             "installed": {
+                "hash_file": "010003C0099EE000/romfs/PlanetAlpha/Content/Paks/PlanetAlpha-Switch_1_P.pak",
+                "hash_size": 1370395,
                 "uninstall": {
-                    "path01": "010003C0099EE000"
+                    "path01": "010003C0099EE000/romfs"
                 }
             }
         },
@@ -832,8 +840,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmbp/0100000011d90000.zip",
             "size": "34.3 MB",
             "installed": {
+                "hash_file": "0100000011d90000/romfs/Data/StreamingAssets/AssetAssistant/Dpr/movie/dia/logo/logo_dia_en",
+                "hash_size": 940325,
                 "uninstall": {
-                    "path01": "0100000011d90000"
+                    "path01": "0100000011d90000/romfs"
                 }
             }
         },
@@ -842,8 +852,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLA/01001F5010DFA000.zip",
             "size": "26.3 MB",
             "installed": {
+                "hash_file": "01001F5010DFA000/romfs/bin/archive/appli/battle_menu_eng.gfpak",
+                "hash_size": 612344,
                 "uninstall": {
-                    "path01": "01001F5010DFA000"
+                    "path01": "01001F5010DFA000/romfs"
                 }
             }
         },
@@ -852,8 +864,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLE/0100187003A36000.zip",
             "size": "10.6 MB",
             "installed": {
+                "hash_file": "0100187003A36000/romfs/bin/app/archive/waza_oboe.gfpak",
+                "hash_size": 114067,
                 "uninstall": {
-                    "path01": "0100187003A36000"
+                    "path01": "0100187003A36000/romfs"
                 }
             }
         },
@@ -862,8 +876,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMLP/010003F003A34000.zip",
             "size": "10.6 MB",
             "installed": {
+                "hash_file": "010003F003A34000/romfs/bin/app/archive/waza_oboe.gfpak",
+                "hash_size": 114067,
                 "uninstall": {
-                    "path01": "010003F003A34000"
+                    "path01": "010003F003A34000/romfs"
                 }
             }
         },
@@ -872,8 +888,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSHIELD/01008db008c2c000.zip",
             "size": "24.9 MB",
             "installed": {
+                "hash_file": "01008db008c2c000/romfs/bin/appli/bag/bin/bag_poke_skill_00_eng.arc",
+                "hash_size": 123288,
                 "uninstall": {
-                    "path01": "01008db008c2c000"
+                    "path01": "01008db008c2c000/romfs"
                 }
             }
         },
@@ -882,8 +900,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/pkmsp/010018e011d92000.zip",
             "size": "26.4 MB",
             "installed": {
+                "hash_file": "010018e011d92000/romfs/Data/StreamingAssets/AssetAssistant/Dpr/movie/dia/logo/logo_dia_en",
+                "hash_size": 940325,
                 "uninstall": {
-                    "path01": "010018e011d92000"
+                    "path01": "010018e011d92000/romfs"
                 }
             }
         },
@@ -892,8 +912,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/PKMSWORD/0100abf008968000.zip",
             "size": "24.9 MB",
             "installed": {
+                "hash_file": "100abf008968000/romfs/bin/appli/bag/bin/bag_poke_skill_00_eng.arc",
+                "hash_size": 123288,
                 "uninstall": {
-                    "path01": "0100abf008968000"
+                    "path01": "100abf008968000/romfs"
                 }
             }
         },
@@ -902,8 +924,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Potata/01005FC010EB2000.zip",
             "size": "82.7 MB",
             "installed": {
+                "hash_file": "01005FC010EB2000/romfs/Data/resources.assets",
+                "hash_size": 2110992,
                 "uninstall": {
-                    "path01": "01005FC010EB2000"
+                    "path01": "01005FC010EB2000/romfs"
                 }
             }
         },
