@@ -453,7 +453,7 @@
                     "path01": "01008A100A028000/romfs"
                 }
             }
-        },    
+        },
         "Ghostbusters The Video Game Remastered": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/ghostbusters/0100EAE00D9EC000.zip",
@@ -939,8 +939,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/rehdremaster/010050F00BC1A000.zip",
             "size": "20.5 MB",
             "installed": {
+                "hash_file": "010050F00BC1A000/romfs/nativeNXx64/arc/id/e_rom/common.arc",
+                "hash_size": 1868246,
                 "uninstall": {
-                    "path01": "010050F00BC1A000"
+                    "path01": "010050F00BC1A000/romfs"
                 }
             }
         },
@@ -949,8 +951,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Rivals_of_Aether/0100D2700DE7C000.zip",
             "size": "56.1 KB",
             "installed": {
+                "hash_file": "0100D2700DE7C000/romfs/LOC_EN.txt",
+                "hash_size": 179165,
                 "uninstall": {
-                    "path01": "0100D2700DE7C000"
+                    "path01": "0100D2700DE7C000/romfs"
                 }
             }
         },
@@ -971,8 +975,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shantae_Half_Genie/01006A200936C000.zip",
             "size": "4.87 MB",
             "installed": {
+                "hash_file": "01006A200936C000/romfs/credits.pak",
+                "hash_size": 326112,
                 "uninstall": {
-                    "path01": "01006A200936C000"
+                    "path01": "01006A200936C000/romfs"
                 }
             }
         },
@@ -981,8 +987,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Shio/0100C2F00A568000.zip",
             "size": "2.06 MB",
             "installed": {
+                "hash_file": "0100C2F00A568000/romfs/Data/resources.assets",
+                "hash_size": 14823504,
                 "uninstall": {
-                    "path01": "0100C2F00A568000"
+                    "path01": "0100C2F00A568000/romfs"
                 }
             }
         },
@@ -991,8 +999,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skellboy_Refractured/0100D7001453A000.zip",
             "size": "4.56 MB",
             "installed": {
+                "hash_file": "0100D7001453A000/romfs/Data/sharedassets1.assets",
+                "hash_size": 10795776,
                 "uninstall": {
-                    "path01": "0100D7001453A000"
+                    "path01": "0100D7001453A000/romfs"
                 }
             }
         },
@@ -1001,8 +1011,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/skyrim/01000A10041EA000.zip",
             "size": "2.94 MB",
             "installed": {
+                "hash_file": "01000A10041EA000/romfs/Data/Interface/Translate_ENGLISH.txt",
+                "hash_size": 94168,
                 "uninstall": {
-                    "path01": "01000A10041EA000"
+                    "path01": "01000A10041EA000/romfs"
                 }
             }
         },
@@ -1011,8 +1023,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Snipperclips/0100704000B3A000.zip",
             "size": "47.6 KB",
             "installed": {
+                "hash_file": "0100704000B3A000/romfs/Data/StreamingAssets/Localisation/global.tsv",
+                "hash_size": 111790,
                 "uninstall": {
-                    "path01": "0100704000B3A000"
+                    "path01": "0100704000B3A000/romfs"
                 }
             }
         },
@@ -1021,8 +1035,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sonic_Mania_Plus/01009AA000FAA000.zip",
             "size": "181 MB",
             "installed": {
+                "hash_file": "01009AA000FAA000/romfs/Data.rsdk",
+                "hash_size": 208476194,
                 "uninstall": {
-                    "path01": "01009AA000FAA000"
+                    "path01": "01009AA000FAA000/romfs"
                 }
             }
         },
@@ -1031,10 +1047,12 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/southparktst/southpark.zip",
             "size": "1.55 MB",
             "installed": {
+                "hash_file": "010095300b6a4800/romfs/data_localized_en.oaf",
+                "hash_size": 1415284,
                 "uninstall": {
-                    "path01": "010095300b6a4800",
-                    "path02": "010095300b6a4000",
-                    "path03": "010043600B6A6000"
+                    "path01": "010095300b6a4800/romfs",
+                    "path02": "010095300b6a4000/romfs",
+                    "path03": "010043600B6A6000/romfs"
                 }
             }
         },
@@ -1043,8 +1061,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig/01009320084A4000.zip",
             "size": "31.4 KB",
             "installed": {
+                "hash_file": "01009320084A4000/romfs/Language/credits.en",
+                "hash_size": 2812,
                 "uninstall": {
-                    "path01": "01009320084A4000"
+                    "path01": "01009320084A4000/romfs"
                 }
             }
         },
@@ -1053,8 +1073,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Dig_2/0100CA9002322000.zip",
             "size": "4.27 MB",
             "installed": {
+                "hash_file": "0100CA9002322000/romfs/data01.impak",
+                "hash_size": 4811224,
                 "uninstall": {
-                    "path01": "0100CA9002322000"
+                    "path01": "0100CA9002322000/romfs"
                 }
             }
         },
@@ -1063,8 +1085,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Steamworld_Heist/010016100A186000.zip",
             "size": "4.02 MB",
             "installed": {
+                "hash_file": "010016100A186000/romfs/Bundle/data01.impak",
+                "hash_size": 4224824,
                 "uninstall": {
-                    "path01": "010016100A186000"
+                    "path01": "010016100A186000/romfs"
                 }
             }
         },
@@ -1073,8 +1097,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/supercableboy/01008260145F2000.zip",
             "size": "41.6 KB",
             "installed": {
+                "hash_file": "01008260145F2000/romfs/Data/StreamingAssets/SCBLocalization - Main.csv",
+                "hash_size": 113938,
                 "uninstall": {
-                    "path01": "01008260145F2000"
+                    "path01": "01008260145F2000/romfs"
                 }
             }
         },
@@ -1083,8 +1109,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMM2/01009B90006DC000.zip",
             "size": "477 KB",
             "installed": {
+                "hash_file": "01009B90006DC000/romfs/Data.rsdk",
+                "hash_size": 208476194,
                 "uninstall": {
-                    "path01": "01009B90006DC000"
+                    "path01": "01009B90006DC000/romfs"
                 }
             }
         },
@@ -1093,8 +1121,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/MarioOdysseyJMC/0100000000010000.zip",
             "size": "759 KB",
             "installed": {
+                "hash_file": "0100000000010000/romfs/LocalizedData/USen/LayoutData/FontData.szs",
+                "hash_size": 157308,
                 "uninstall": {
-                    "path01": "0100000000010000"
+                    "path01": "0100000000010000/romfs"
                 }
             }
         },
@@ -1103,8 +1133,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SSMP/010036B0034E4000.zip",
             "size": "2.75 MB",
             "installed": {
+                "hash_file": "01009AA000FAA000/romfs/Data.rsdk",
+                "hash_size": 579765,
                 "uninstall": {
-                    "path01": "010036B0034E4000"
+                    "path01": "01009AA000FAA000/romfs"
                 }
             }
         },
@@ -1113,9 +1145,11 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/mariogalaxy/Super.Mario.Galaxy.NX.zip",
             "size": "579 KB",
             "installed": {
+                "hash_file": "010049900F546003/romfs/EuSpanish/LayoutData/Font.arc",
+                "hash_size": 218180,
                 "uninstall": {
-                    "path01": "010049900F546000",
-                    "path02": "010049900F546003"
+                    "path01": "010049900F546000/romfs",
+                    "path02": "010049900F546003/romfs"
                 }
             }
         },
@@ -1124,9 +1158,11 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SMSS/sunshine.zip",
             "size": "298 MB",
             "installed": {
+                "hash_file": "010049900F546002/romfs/MarioSunshine/Super_Mario_Sunshine_Stardust-trimmed.gcm",
+                "hash_size": 410484864,
                 "uninstall": {
-                    "path01": "010049900F546000",
-                    "path02": "010049900F546002"
+                    "path01": "010049900F546000/romfs",
+                    "path02": "010049900F546002/romfs"
                 }
             }
         },
@@ -1135,8 +1171,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Sword_of_Necromancer/0100E4701355C000.zip",
             "size": "56.9 KB",
             "installed": {
+                "hash_file": "0100E4701355C000/romfs/Texts/gametexts_esp.txt",
+                "hash_size": 47.129,
                 "uninstall": {
-                    "path01": "0100E4701355C000"
+                    "path01": "0100E4701355C000/romfs"
                 }
             }
         },
@@ -1145,8 +1183,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/syberia/0100421003FD4000.zip",
             "size": "6.98 MB",
             "installed": {
+                "hash_file": "0100421003FD4000/romfs/texts/en.xml",
+                "hash_size": 352952,
                 "uninstall": {
-                    "path01": "0100421003FD4000"
+                    "path01": "0100421003FD4000/romfs"
                 }
             }
         },
@@ -1155,8 +1195,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Syberia_2/010028C003FD6000.zip",
             "size": "3.84 MB",
             "installed": {
+                "hash_file": "010028C003FD6000/romfs/texts/en.xml",
+                "hash_size": 249825,
                 "uninstall": {
-                    "path01": "010028C003FD6000"
+                    "path01": "010028C003FD6000/romfs"
                 }
             }
         },
@@ -1165,8 +1207,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/theescapists/01001B700BA7C000.zip",
             "size": "891 KB",
             "installed": {
+                "hash_file": "01001B700BA7C000/romfs/Data/StreamingAssets/Switch/bundle142",
+                "hash_size": 1223365,
                 "uninstall": {
-                    "path01": "01001B700BA7C000"
+                    "path01": "01001B700BA7C000/romfs"
                 }
             }
         },
@@ -1175,8 +1219,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/thotd/010088401495E000.zip",
             "size": "1.09 MB",
             "installed": {
+                "hash_file": "010088401495E000/romfs/Data/resources.assets",
+                "hash_size": 2770360,
                 "uninstall": {
-                    "path01": "010088401495E000"
+                    "path01": "010088401495E000/romfs"
                 }
             }
         },
@@ -1185,8 +1231,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Scretchers/0100AA400A238000.zip",
             "size": "1.88 MB",
             "installed": {
+                "hash_file": "0100AA400A238000/romfs/Stretch/Content/Paks/Stretch-Switch_P.pak",
+                "hash_size": 1978118,
                 "uninstall": {
-                    "path01": "0100AA400A238000"
+                    "path01": "0100AA400A238000/romfs"
                 }
             }
         },
@@ -1195,8 +1243,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/The_Talos_Principle/010092A00D43C000.zip",
             "size": "88.4 MB",
             "installed": {
+                "hash_file": "010092A00D43C000/romfs/Content/Talos/50_455351_00_All.gro",
+                "hash_size": 93661125,
                 "uninstall": {
-                    "path01": "010092A00D43C000"
+                    "path01": "010092A00D43C000/romfs"
                 }
             }
         },
@@ -1205,8 +1255,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Titan_Quest/0100605008268000.zip",
             "size": "460 KB",
             "installed": {
+                "hash_file": "0100605008268000/romfs/buildnumber.txt",
+                "hash_size": 8,
                 "uninstall": {
-                    "path01": "0100605008268000"
+                    "path01": "0100605008268000/romfs"
                 }
             }
         },
@@ -1215,8 +1267,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Torchlight_II/010090400D366000.zip",
             "size": "512 KB",
             "installed": {
+                "hash_file": "010090400D366000/romfs/CONSOLELOC/EN_US.LANGUAGE",
+                "hash_size": 2520564,
                 "uninstall": {
-                    "path01": "010090400D366000"
+                    "path01": "010090400D366000/romfs"
                 }
             }
         },
@@ -1225,8 +1279,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/TOUHOU_Luna_Nights/0100D850131B0000.zip",
             "size": "33.2 KB",
             "installed": {
+                "hash_file": "0100D850131B0000/romfs/options.ini",
+                "hash_size": 156,
                 "uninstall": {
-                    "path01": "0100D850131B0000"
+                    "path01": "0100D850131B0000/romfs"
                 }
             }
         },
@@ -1235,8 +1291,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/trianglestrategy/0100CC80140F8000.zip",
             "size": "58.8 MB",
             "installed": {
+                "hash_file": "0100CC80140F8000/romfs/Newera/Content/Paks/Newera-Switch_TRPKG_v_0.0.6_P.pak",
+                "hash_size": 65657868,
                 "uninstall": {
-                    "path01": "0100CC80140F8000"
+                    "path01": "0100CC80140F8000/romfs"
                 }
             }
         },    
@@ -1245,8 +1303,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine/0100d9000a930000.zip",
             "size": "184 KB",
             "installed": {
+                "hash_file": "0100d9000a930000/romfs/patch1.fbq",
+                "hash_size": 270271,
                 "uninstall": {
-                    "path01": "0100d9000a930000"
+                    "path01": "0100d9000a930000/romfs"
                 }
             }
         },
@@ -1255,8 +1315,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_2/010064E00A932000.zip",
             "size": "13.3 MB",
             "installed": {
+                "hash_file": "010064E00A932000/romfs/patch3.fbq",
+                "hash_size": 17043309,
                 "uninstall": {
-                    "path01": "010064E00A932000"
+                    "path01": "010064E00A932000/romfs"
                 }
             }
         },
@@ -1265,8 +1327,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Trine_3/0100DEC00A934000.zip",
             "size": "13 MB",
             "installed": {
+                "hash_file": "0100DEC00A934000/romfs/patch1.fbq",
+                "hash_size": 16624851,
                 "uninstall": {
-                    "path01": "0100DEC00A934000"
+                    "path01": "0100DEC00A934000/romfs"
                 }
             }
         },
@@ -1275,11 +1339,13 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/stftfc/street.zip",
             "size": "1.62 MB",
             "installed": {
+                "hash_file": "010028C003FD6000/romfs/nativeNXx64/app/arc_us/mess/mess_resident.arc",
+                "hash_size": 457713,
                 "uninstall": {
-                    "path01": "01007330027EE800",
-                    "path02": "01007330027EE000",
-                    "path03": "0100C86000B58000",
-                    "path04": "0100BBF0027EC000"
+                    "path01": "01007330027EE800/romfs",
+                    "path02": "01007330027EE000/romfs",
+                    "path03": "0100C86000B58000/romfs",
+                    "path04": "0100BBF0027EC000/romfs"
                 }
             }
         },
@@ -1288,8 +1354,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Undertale/010080B00AD66000.zip",
             "size": "43.7 MB",
             "installed": {
+                "hash_file": "010080B00AD66000/romfs/game.win",
+                "hash_size": 78016272,
                 "uninstall": {
-                    "path01": "010080B00AD66000"
+                    "path01": "010080B00AD66000/romfs"
                 }
             }
         },
@@ -1298,8 +1366,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Unravel_2/0100E5D00CC0C000.zip",
             "size": "145 MB",
             "installed": {
+                "hash_file": "0100E5D00CC0C000/romfs/NVNKits/Data.kit",
+                "hash_size": 1509189,
                 "uninstall": {
-                    "path01": "0100E5D00CC0C000"
+                    "path01": "0100E5D00CC0C000/romfs"
                 }
             }
         },
@@ -1308,8 +1378,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Wildfire/0100D9D011E3C000.zip",
             "size": "361 KB",
             "installed": {
+                "hash_file": "0100D9D011E3C000/romfs/Languages/lang_common.json",
+                "hash_size": 1132347,
                 "uninstall": {
-                    "path01": "0100D9D011E3C000"
+                    "path01": "0100D9D011E3C000/romfs"
                 }
             }
         },
@@ -1318,8 +1390,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Worms_WMD/01001AE005166000.zip",
             "size": "191 KB",
             "installed": {
+                "hash_file": "01001AE005166000/romfs/DataNX/Language/AllTextBra64.bin",
+                "hash_size": 173068,
                 "uninstall": {
-                    "path01": "01001AE005166000"
+                    "path01": "01001AE005166000/romfs"
                 }
             }
         },
@@ -1328,8 +1402,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenoblade2/0100e95004039002.zip",
             "size": "2.47 MB",
             "installed": {
+                "hash_file": "0100e95004039002/romfs/bdat/gb/bf01030100_ms.bdat",
+                "hash_size": 1484,
                 "uninstall": {
-                    "path01": "0100e95004039002"
+                    "path01": "0100e95004039002/romfs"
                 }
             }
         },
@@ -1338,8 +1414,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/xenobladeDE/0100FF500E34A000.zip",
             "size": "8.53 MB",
             "installed": {
+                "hash_file": "0100FF500E34A000/romfs/bdat/gb/bdat_common_ms.bdat",
+                "hash_size": 433888,
                 "uninstall": {
-                    "path01": "0100FF500E34A000"
+                    "path01": "0100FF500E34A000/romfs"
                 }
             }
         },
@@ -1348,8 +1426,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/YesterMorrow/010076B0101A0000.zip",
             "size": "28.1 MB",
             "installed": {
+                "hash_file": "010076B0101A0000/romfs/Data/resources.assets",
+                "hash_size": 8601968,
                 "uninstall": {
-                    "path01": "010076B0101A0000"
+                    "path01": "010076B0101A0000/romfs"
                 }
             }
         },
@@ -1358,8 +1438,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_laylee/0100F110029C8000.zip",
             "size": "72.4 KB",
             "installed": {
+                "hash_file": "0100F110029C8000/romfs/Data/StreamingAssets/AssetBundles/text.switch.en_gb",
+                "hash_size": 72961,
                 "uninstall": {
-                    "path01": "0100F110029C8000"
+                    "path01": "0100F110029C8000/romfs"
                 }
             }
         },
@@ -1368,8 +1450,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yooka_layleeIP/010022F00DA66000.zip",
             "size": "929 KB",
             "installed": {
+                "hash_file": "010022F00DA66000/romfs/Data/sharedassets0.assets",
+                "hash_size": 5431100,
                 "uninstall": {
-                    "path01": "010022F00DA66000"
+                    "path01": "010022F00DA66000/romfs"
                 }
             }
         },
@@ -1378,8 +1462,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yoshi/01006000040C2000.zip",
             "size": "348 KB",
             "installed": {
+                "hash_file": "01006000040C2000/romfs/PJ033/Content/Paks/PJ033-Switch_P.pak",
+                "hash_size": 362184,
                 "uninstall": {
-                    "path01": "01006000040C2000"
+                    "path01": "01006000040C2000/romfs"
                 }
             }
         },
@@ -1388,8 +1474,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/yugiohle/010022400BE5A000.zip",
             "size": "1.51 GB",
             "installed": {
+                "hash_file": "010022400BE5A000/romfs/YGO_2020.toc",
+                "hash_size": 17960,
                 "uninstall": {
-                    "path01": "010022400BE5A000"
+                    "path01": "010022400BE5A000/romfs"
                 }
             }
         },
@@ -1398,8 +1486,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/01007EF00011E000.zip",
             "size": "6.39 MB",
             "installed": {
+                "hash_file": "01007EF00011E000/romfs/Font/Font_EU.sbfarc",
+                "hash_size": 3083556,
                 "uninstall": {
-                    "path01": "01007EF00011E000"
+                    "path01": "01007EF00011E000/romfs"
                 }
             }
         },
@@ -1408,6 +1498,8 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/zeldabotw/dublagem_legenda.zip",
             "size": "107 MB",
             "installed": {
+                "hash_file": "010022400BE5A000/romfs/Voic/EUru/Stream_Demo600_0/Demo600_0_000.bfstm",
+                "hash_size": 1092032,
                 "uninstall": {
                     "path01": "01007EF00011E000",
                     "path02": "01007EF00011F001"
@@ -1433,8 +1525,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Skyward_Sword/01002DA013484000.zip",
             "size": "24.7 MB",
             "installed": {
+                "hash_file": "01002DA013484000/romfs/Layout/DemoTitle.arc",
+                "hash_size": 497152,
                 "uninstall": {
-                    "path01": "01002DA013484000"
+                    "path01": "01002DA013484000/romfs"
                 }
             }
         }
@@ -1457,8 +1551,10 @@
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
             "installed": {
+                "hash_file": "0100C9A00ECE6000/romfs/titles/N-3031_e",
+                "hash_size": 8388608,
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000"
+                    "path01": "0100C9A00ECE6000/romfs/titles"
                 }
             }
         },
@@ -1495,7 +1591,7 @@
                 "hash_file": "010093801237C000/romfs/config.ini",
                 "hash_size": 87238,
                 "uninstall": {
-                    "path01": "01006BB00C6F0000/romfs"
+                    "path01": "01006BB00C6F0000/romfs/config.ini"
                 }
             }
         },
@@ -1504,10 +1600,12 @@
             "link": "https://github.com/AMSNX/modsnx/releases/download/sneson/snes300.zip",
             "size": "431 MB",
             "installed": {
+                "hash_file": "01006BB00C6F0000/romfs/regionEU/EUen/message/Glossary.msbt",
+                "hash_size": 18.224,
                 "uninstall": {
-                    "path01": "01006BB00C6F0000",
-                    "path02": "01007EF00011E000",
-                    "path03": "01008D300C50C000"
+                    "path01": "01006BB00C6F0000/romfs",
+                    "path02": "01007EF00011E000/romfs",
+                    "path03": "01008D300C50C000/romfs"
                 }
             }
         },
