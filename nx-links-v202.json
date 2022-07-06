@@ -708,8 +708,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/NPKMS/0100f4300bf2c000.zip",
             "size": "205 KB",
             "installed": {
+                "hash_file": "0100f4300bf2c000/romfs/common/Text/master/TextResource_en.drp",
+                "hash_size": 210664,
                 "uninstall": {
-                    "path01": "0100f4300bf2c000"
+                    "path01": "0100f4300bf2c000/romfs"
                 }
             }
         },
@@ -718,8 +720,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/nsmbu/0100EA80032EA000.zip",
             "size": "53 KB",
             "installed": {
+                "hash_file": "0100EA80032EA000/romfs/Message/CommonMsg_EUpt.szs",
+                "hash_size": 47588,
                 "uninstall": {
-                    "path01": "0100EA80032EA000"
+                    "path01": "0100EA80032EA000/romfs"
                 }
             }
         },
@@ -728,8 +732,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/OctoDad/0100CAB006F54000.zip",
             "size": "518 MB",
             "installed": {
+                "hash_file": "0100CAB006F54000/romfs/Content.zip",
+                "hash_size": 567621756,
                 "uninstall": {
-                    "path01": "0100CAB006F54000"
+                    "path01": "0100CAB006F54000/romfs"
                 }
             }
         },
@@ -738,8 +744,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Octopath_Traveler/010057D006492000.zip",
             "size": "9.04 MB",
             "installed": {
+                "hash_file": "10057D006492000/romfs/Kingship/Content/Paks/Kingship-Switch_2_P.pak",
+                "hash_size": 567621756,
                 "uninstall": {
-                    "path01": "010057D006492000"
+                    "path01": "10057D006492000/romfs"
                 }
             }
         },
@@ -748,8 +756,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/okamihd/0100276009872000.zip",
             "size": "216 MB",
             "installed": {
+                "hash_file": "100276009872000/romfs/data/es/es7e.dat",
+                "hash_size": 8666536,
                 "uninstall": {
-                    "path01": "0100276009872000"
+                    "path01": "100276009872000/romfs"
                 }
             }
         },
@@ -758,8 +768,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Onimusha_Warlords/0100416008A12000.zip",
             "size": "72.4 KB",
             "installed": {
+                "hash_file": "100416008A12000/romfs/IMAGE/MOVIE/LINKS00.SUB.txt",
+                "hash_size": 5698,
                 "uninstall": {
-                    "path01": "0100416008A12000"
+                    "path01": "100416008A12000/romfs"
                 }
             }
         },
@@ -768,8 +780,10 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Overcooked/01009B900401E000.zip",
             "size": "12.3 MB",
             "installed": {
+                "hash_file": "01009B900401E000/romfs/Data/resources.assets",
+                "hash_size": 30384916,
                 "uninstall": {
-                    "path01": "01009B900401E000"
+                    "path01": "01009B900401E000/romfs"
                 }
             }
         },
