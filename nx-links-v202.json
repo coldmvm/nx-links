@@ -5,7 +5,7 @@
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/1-2_Switch/01000320000CC000.zip",
             "size": "53.7 MB",
             "installed": {
-				"hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
+                "hash_file": "01000320000CC000/romfs/NX32/EUen/autogen/splash_screen/texture.bin.szs",
                 "hash_size": 1894439,
                 "uninstall": {
                     "path01": "01000320000CC000/romfs"
@@ -219,7 +219,7 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Crysis_Remastered/0100E66010ADE000.zip",
             "size": "555 KB",
-			"installed": {
+            "installed": {
             "hash_file": "0100E66010ADE000/romfs/patch/localized/english2.pak",
                 "hash_size": 568964,
                 "uninstall": {
@@ -265,7 +265,8 @@
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Don't_Starve/0100751007ADA000.zip",
             "size": "1.59 MB",
-            "hash_file": "0100751007ADA000/romfs/DLC0002/dlcinfo.txt",
+            "installed": {
+                "hash_file": "0100751007ADA000/romfs/DLC0002/dlcinfo.txt",
                 "hash_size": 4,
                 "uninstall": {
                     "path01": "0100751007ADA000/romfs"
