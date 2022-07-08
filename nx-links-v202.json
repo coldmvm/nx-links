@@ -1552,7 +1552,7 @@
             "size": "1.08 GB",
             "installed": {
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000/romfs/titles"
+                    "path01": "0100C9A00ECE6000"
                 }
             }
         },
