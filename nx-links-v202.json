@@ -1563,8 +1563,6 @@
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64fullscreen/0100C9A00ECE6000_FULLSCREEN.zip",
             "size": "38.2 KB",
             "installed": {
-                "hash_file": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/sys/sysmain.scn",
-                "hash_size": 340503,
                 "uninstall": {
                     "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/",
                     "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
