@@ -1551,8 +1551,6 @@
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
             "installed": {
-                "hash_file": "0100C9A00ECE6000/romfs/titles/N-3031_e",
-                "hash_size": 8388608,
                 "uninstall": {
                     "path01": "0100C9A00ECE6000/romfs/titles"
                 }
@@ -1564,8 +1562,7 @@
             "size": "38.2 KB",
             "installed": {
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/",
-                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
+                    "path01": "0100C9A00ECE6000",
                 }
             }
         },
