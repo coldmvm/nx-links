@@ -1540,9 +1540,9 @@
             "size": "11.7 MB",
             "installed": {
                 "hash_file": "0100726014352000/exefs/main",
-                "hash_size": 16417444,
+                "hash_size": 16801563,
                 "uninstall": {
-                    "path01": "0100726014352000/exefs/"
+                    "path01": "0100726014352000/exefs"
                 }
             }
         },
@@ -1551,8 +1551,13 @@
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
             "installed": {
+                "hash_file": "0100C9A00ECE6000/romfs/titles/N-3031_e/N-3031_e.bin",
+                "hash_size": 8388608,
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000"
+                    "path01": "0100C9A00ECE6000/romfs_metadata.bin",
+                    "path03": "0100C9A00ECE6000/romfs/titles",
+                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/strings"
+
                 }
             }
         },
@@ -1564,8 +1569,8 @@
                 "hash_file": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/sys/sysmain.scn",
                 "hash_size": 340503,
                 "uninstall": {
-                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes/",
-                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts/"
+                    "path01": "0100C9A00ECE6000/romfs/bootapp/resources/scenes",
+                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/scripts"
                 }
             }
         },
@@ -1577,7 +1582,7 @@
                 "hash_file": "010019401051C000/romfs/Movies/IntroMovie.webm",
                 "hash_size": 6639,
                 "uninstall": {
-                    "path01": "010019401051C000/romfs/Movies/"
+                    "path01": "010019401051C000/romfs/Movies"
                 }
             }
         },
