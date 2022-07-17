@@ -1546,17 +1546,17 @@
                 }
             }
         },
-        "Nintendo 64 Online": {
+        "Nintendo 64 Online ( Update 2.5.0 )": {
             "enabled": true,
             "link": "https://github.com/AMSNX/modsnx/releases/download/n64on/0100C9A00ECE6000.zip",
             "size": "1.08 GB",
             "installed": {
-                "hash_file": "0100C9A00ECE6000/romfs/titles/N-3031_e/N-3031_e.bin",
-                "hash_size": 8388608,
+                "hash_file": "0100C9A00ECE6000/romfs/titles/lclassics.titlesdb",
+                "hash_size": 63444,
                 "uninstall": {
                     "path01": "0100C9A00ECE6000/romfs_metadata.bin",
-                    "path03": "0100C9A00ECE6000/romfs/titles",
-                    "path02": "0100C9A00ECE6000/romfs/bootapp/resources/strings"
+                    "path02": "0100C9A00ECE6000/romfs/titles",
+                    "path03": "0100C9A00ECE6000/romfs/bootapp/resources/strings"
 
                 }
             }
