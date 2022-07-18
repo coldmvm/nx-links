@@ -562,6 +562,19 @@
                 }
             }
         },
+        "Luigi's Mansion 3": {
+            "enabled": true,
+            "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/luigis3/Luigis_Mansion3.zip",
+            "size": "19.8 KB",
+            "installed": {
+                "hash_file": "0100DCA0064A6000/romfs/init.patch",
+                "hash_size": 21405451,
+                "uninstall": {
+                    "path01": "0100DCA0064A6000/manual_html",
+                    "path02": "0100DCA0064A6000/romfs"
+                }
+            }
+        },
         "Mario 3D World + Bowser Fury": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/SM3DW/010028600EBDA000.zip",
