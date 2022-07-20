@@ -27,10 +27,10 @@
         "Alwa's Legacy": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/Alwa's_Legacy/01001B7012214000.zip",
-            "size": "264 KB",
+            "size": "319 KB",
             "installed": {
                 "hash_file": "01001B7012214000/romfs/Data/resources.assets",
-                "hash_size": 825868,
+                "hash_size": 1001232,
                 "uninstall": {
                     "path01": "01001B7012214000/romfs"
                 }
@@ -565,7 +565,7 @@
         "Luigi's Mansion 3": {
             "enabled": true,
             "link": "https://github.com/AMSNX/Traducoes-BR-NX/releases/download/luigis3/Luigis_Mansion3.zip",
-            "size": "19.8 KB",
+            "size": "19.8 MB",
             "installed": {
                 "hash_file": "0100DCA0064A6000/romfs/init.patch",
                 "hash_size": 21405451,
