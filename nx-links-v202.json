@@ -1646,6 +1646,19 @@
                     "path01": "01006BB00C6F0000/romfs/region_common/shader"
                 }
             }
+        },
+		"Zelda™: BOTW Second Wind Mod": {
+            "enabled": false,
+            "link": "https://github.com/AMSNX/modsnx/releases/download/ZeldaAwekeningNoBlur/01006BB00C6F0000.zip",
+            "size": "1.19 GB",
+            "installed": {
+                "hash_file": "01007EF00011E000/romfs/Effect/ExpandFireField_Golem.sesetlist",
+                "hash_size": 111358,
+                "uninstall": {
+                    "path01": "01007EF00011E000/romfs",
+					"path02": "01007EF00011F001/romfs"
+                }
+            }
         }
     },
     "GMPACK-MOTD": {
