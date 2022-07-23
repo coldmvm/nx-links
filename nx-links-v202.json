@@ -1649,14 +1649,14 @@
         },
 		"Zelda™: BOTW Second Wind Mod": {
             "enabled": true,
-            "link": "https://github.com/AMSNX/modsnx/releases/download/zeldasecondwind/second_wind_nx.zip",
-            "size": "1.19 GB",
+            "link": "https://github.com/AMSNX/modsnx/releases/download/zeldasecondwind/second_wind.zip",
+            "size": "1.11 GB",
             "installed": {
                 "hash_file": "01007EF00011E000/romfs/Effect/ExpandFireField_Golem.sesetlist",
-                "hash_size": 111358,
+                "hash_size": 119768,
                 "uninstall": {
                     "path01": "01007EF00011E000",
-					"path02": "01007EF00011F001"
+		    "path02": "01007EF00011F001"
                 }
             }
         }
