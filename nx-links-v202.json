@@ -1663,7 +1663,7 @@
     },
     "GMPACK-MOTD": {
         "enabled": true,
-        "always_show": true,
+        "always_show": false,
         "message": "29/07/2022 10:30PM\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\n\nO repositório do GMPACK e GMPACK-UPDATER mudou!\nSe seu APG não te avisar da atualização nova ou ficar mostrando esta mensagem sempre baixe o novo APG deste link: https://github.com/coldmvm/gmpack-updater/releases/latest\n\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!"
    },
     "CNXPACK-MOTD": {
