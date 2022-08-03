@@ -1667,7 +1667,7 @@
         "message": "29/07/2022 10:30PM\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\n\nO repositório do GMPACK e GMPACK-UPDATER mudou!\nSe seu APG não te avisar da atualização nova ou ficar mostrando esta mensagem sempre baixe o novo APG deste link: https://github.com/coldmvm/gmpack-updater/releases/latest\n\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!\nAVISO IMPORTANTE!"
    },
     "CNXPACK-MOTD": {
-        "enabled": true,
+        "enabled": false,
         "always_show": false,
         "message":  "13/06/2022 21:44\nAVISO!\n\nBem-vindo ao Atualizador do Pacote CNX! Suporte ao Firmware 14.1.2!"
     },
